@@ -7,6 +7,7 @@
 ## Table of contents
 1. [Algorithms](#algorithms)
 2. [Data Structures](#data-structures)
+3. [Functional Programming](#functional-programming)
 
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -30,6 +31,20 @@
 |Arrays|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|Easy|20|[Solution.java](Data%20Structures/Arrays/Left%20Rotation/Solution.java)|
 |Arrays|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|Medium|25|[Solution.cpp](Data%20Structures/Arrays/Sparse%20Arrays/Solution.cpp)|
 
+
+## Functional Programming
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Introduction|[Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first)|Easy|3|[Solution.hs](Functional%20Programming/Introduction/Solve%20Me%20First%20FP/Solution.hs)|
+|Introduction|[Hello World](https://www.hackerrank.com/challenges/fp-hello-world)|Easy|5|[Solution.hs](Functional%20Programming/Introduction/Hello%20World/Solution.hs)|
+|Introduction|[Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times)|Easy|5|[Solution.hs](Functional%20Programming/Introduction/Hello%20World%20N%20Times/Solution.hs)|
+|Introduction|[List Replication](https://www.hackerrank.com/challenges/fp-list-replication)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/List%20Replication/Solution.hs)|
+|Introduction|[Filter Array](https://www.hackerrank.com/challenges/fp-filter-array)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Filter%20Array/Solution.hs)|
+|Introduction|[Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Filter%20Positions%20in%20a%20List/Solution.hs)|
+|Introduction|[Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Array%20Of%20N%20Elements/Solution.hs)|
+|Introduction|[Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Reverse%20a%20List/Solution.hs)|
+|Introduction|[Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Sum%20of%20Odd%20Elements/Solution.hs)|
+|Introduction|[List Length](https://www.hackerrank.com/challenges/fp-list-length)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/List%20Length/Solution.hs)|
 
 
 License
