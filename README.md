@@ -21,6 +21,11 @@
 |Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase)|Easy|10|[Solution.cpp](Algorithms/Warmup/Staircase/Solution.cpp)|
 |Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Mini-Max%20Sum/Solution.cpp)|
 |Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|Easy|10|[Solution.java](Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)|
+|Graph Theory|[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)|Medium|30|[Solution.java](Algorithms/Graph%20Theory/Roads%20and%20Libraries/Solution.java)|
+|Graph Theory|[Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)|Medium|55|[Solution.java](Algorithms/Graph%20Theory/Breadth%20First%20Search%20Shortest%20Reach/Solution.java)|
+|Graph Theory|[Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Kruskal%20MST%20Really%20Special%20Subtree/Solution.java)|
+|Graph Theory|[Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Snakes%20and%20Ladders%20The%20Quickest%20Way%20Up/Solution.java)|
+|Graph Theory|[Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)|Medium|60|[Solution.java](Algorithms/Graph%20Theory/Prim's%20MST%20Special%20Subtree/Solution.java)|
 
 
 ## Data Structures
