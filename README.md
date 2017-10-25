@@ -8,6 +8,7 @@
 1. [Algorithms](#algorithms)
 2. [Data Structures](#data-structures)
 3. [Functional Programming](#functional-programming)
+4. [Java](#java)
 
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -51,6 +52,20 @@
 |Introduction|[Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Sum%20of%20Odd%20Elements/Solution.hs)|
 |Introduction|[List Length](https://www.hackerrank.com/challenges/fp-list-length)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/List%20Length/Solution.hs)|
 
+
+## Java
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Data Structures|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)|Easy|5|[Solution.java](Java/Data%20Structures/Java%201D%20Array/Solution.java)|
+|Data Structures|[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)|Easy|10|[Solution.java](Java/Data%20Structures/Java%202D%20Array/Solution.java)|
+|Data Structures|[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Subarray/Solution.java)|
+|Data Structures|[Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Arraylist/Solution.java)|
+|Data Structures|[Java List](https://www.hackerrank.com/challenges/java-list)|Easy|15|[Solution.java](Java/Data%20Structures/Java%20List/Solution.java)|
+|Data Structures|[Java Map](https://www.hackerrank.com/challenges/phone-book)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Map/Solution.java)|
+|Data Structures|[Java Stack](https://www.hackerrank.com/challenges/java-stack)|Medium|20|[Solution.java](Java/Data%20Structures/Java%20Stack/Solution.java)|
+|Data Structures|[Java Hashset](https://www.hackerrank.com/challenges/java-hashset)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Hashset/Solution.java)|
+|Data Structures|[Java Generics](https://www.hackerrank.com/challenges/java-generics)|Easy|15|[Solution.java](Java/Data%20Structures/Java%20Generics/Solution.java)|
+|Data Structures|[Java Comparator](https://www.hackerrank.com/challenges/java-comparator)|Medium|10|[Solution.java](Java/Data%20Structures/Java%20Comparator/Solution.java)|
 
 License
 =======
