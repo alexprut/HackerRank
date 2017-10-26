@@ -27,7 +27,9 @@
 |Graph Theory|[Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Kruskal%20MST%20Really%20Special%20Subtree/Solution.java)|
 |Graph Theory|[Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Snakes%20and%20Ladders%20The%20Quickest%20Way%20Up/Solution.java)|
 |Graph Theory|[Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)|Medium|60|[Solution.java](Algorithms/Graph%20Theory/Prim's%20MST%20Special%20Subtree/Solution.java)|
-
+|Dynamic Programming|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard|60|[Solution.cpp](Algorithms/Dynamic%20Programming/The%20Coin%20Change%20Problem/Solution.cpp)|
+|Dynamic Programming|[Candies](https://www.hackerrank.com/challenges/candies)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Candies/Solution.java)|
+|Dynamic Programming|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium|45|[Solution.java](Algorithms/Dynamic%20Programming/Fibonacci%20Modified/Solution.java)|
 
 ## Data Structures
 |Subdomain|Challenge|Difficulty|Score|Solution|
