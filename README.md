@@ -51,6 +51,16 @@
 |Introduction|[Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Reverse%20a%20List/Solution.hs)|
 |Introduction|[Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Sum%20of%20Odd%20Elements/Solution.hs)|
 |Introduction|[List Length](https://www.hackerrank.com/challenges/fp-list-length)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/List%20Length/Solution.hs)|
+|Introduction|[Update List](https://www.hackerrank.com/challenges/fp-update-list)|Easy|10|[Solution.hs](Functional%20Programming/Introduction/Update%20List/Solution.hs)|
+|Introduction|[Evaluating e^x](https://www.hackerrank.com/challenges/eval-ex)|Easy|20|[Solution.hs](Functional%20Programming/Introduction/Evaluating%20ex/Solution.hs)|
+|Introduction|[Lambda Calculus - Reductions #1](https://www.hackerrank.com/challenges/lambda-calculus-reductions-1)|Easy|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Reductions%201/Solution.txt)|
+|Introduction|[Lambda Calculus - Reductions #2](https://www.hackerrank.com/challenges/lambda-calculus-reductions-2)|Easy|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Reductions%202/Solution.txt)|
+|Introduction|[Lambda Calculus - Reductions #3](https://www.hackerrank.com/challenges/lambda-calculus-reductions-3)|Medium|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Reductions%203/Solution.txt)|
+|Introduction|[Lambda Calculus - Reductions #4](https://www.hackerrank.com/challenges/lambda-calculus-reductions-4)|Medium|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Reductions%204/Solution.txt)|
+|Introduction|[Lambda Calculus - Evaluating Expressions #1](https://www.hackerrank.com/challenges/lambda-calculus-getting-started)|Easy|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Evaluating%20Expressions%201/Solution.txt)|
+|Introduction|[Lambda Calculus - Evaluating Expressions #2](https://www.hackerrank.com/challenges/lambda-calculus-understanding-the-syntax)|Easy|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Evaluating%20Expressions%202/Solution.txt)|
+|Introduction|[Lambda Calculus - Evaluating Expressions #3](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression)|Easy|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Evaluating%20Expressions%203/Solution.txt)|
+|Introduction|[Lambda Calculus - Evaluating Expressions #4](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-1)|Medium|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Evaluating%20Expressions%204/Solution.txt)|
 
 
 ## Java
