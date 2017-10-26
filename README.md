@@ -6,9 +6,10 @@
 
 ## Table of contents
 1. [Algorithms](#algorithms)
-2. [Data Structures](#data-structures)
-3. [Functional Programming](#functional-programming)
-4. [Java](#java)
+1. [Data Structures](#data-structures)
+1. [Functional Programming](#functional-programming)
+1. [Java](#java)
+1. [C++](#c++)
 
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -30,6 +31,7 @@
 |Dynamic Programming|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard|60|[Solution.cpp](Algorithms/Dynamic%20Programming/The%20Coin%20Change%20Problem/Solution.cpp)|
 |Dynamic Programming|[Candies](https://www.hackerrank.com/challenges/candies)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Candies/Solution.java)|
 |Dynamic Programming|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium|45|[Solution.java](Algorithms/Dynamic%20Programming/Fibonacci%20Modified/Solution.java)|
+
 
 ## Data Structures
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -78,6 +80,21 @@
 |Data Structures|[Java Hashset](https://www.hackerrank.com/challenges/java-hashset)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Hashset/Solution.java)|
 |Data Structures|[Java Generics](https://www.hackerrank.com/challenges/java-generics)|Easy|15|[Solution.java](Java/Data%20Structures/Java%20Generics/Solution.java)|
 |Data Structures|[Java Comparator](https://www.hackerrank.com/challenges/java-comparator)|Medium|10|[Solution.java](Java/Data%20Structures/Java%20Comparator/Solution.java)|
+
+
+##  C++
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Introduction|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world)|Easy|5|[Solution.cpp](C++/Introduction/Say%20"Hello,%20World!"%20With%20C++/Solution.cpp)|
+|Introduction|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output)|Easy|5|[Solution.cpp](C++/Introduction/Input%20and%20Output/Solution.cpp)|
+|Introduction|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types)|Easy|10|[Solution.cpp](C++/Introduction/Basic%20Data%20Types/Solution.cpp)|
+|Introduction|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else)|Easy|10|[Solution.cpp](C++/Introduction/Conditional%20Statements/Solution.cpp)|
+|Introduction|[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop)|Easy|10|[Solution.cpp](C++/Introduction/For%20Loop/Solution.cpp)|
+|Introduction|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions)|Easy|10|[Solution.cpp](C++/Introduction/Functions/Solution.cpp)|
+|Introduction|[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer)|Easy|10|[Solution.cpp](C++/Introduction/Pointer/Solution.cpp)|
+|Introduction|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction)|Easy|10|[Solution.cpp](C++/Introduction/Arrays%20Introduction/Solution.cpp)|
+|Introduction|[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays)|Easy|30|[Solution.cpp](C++/Introduction/Variable%20Sized%20Arrays/Solution.cpp)|
+|Introduction|[Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions)|Medium|40|[Solution.cpp](C++/Introduction/Virtual%20Functions/Solution.cpp)|
 
 License
 =======
