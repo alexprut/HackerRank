@@ -4,6 +4,11 @@
     </a>
 </div>
 
+##### Disclaimer
+The problem solutions and implementations are entirely provided by [Alex Prut](https://www.hackerrank.com/alexprut).
+The code is not refactored, no coding style is followed, the only purpose of the written code is to pass all the
+platform tests of a given problem.
+
 ## Table of contents
 1. [Algorithms](#algorithms)
 1. [Data Structures](#data-structures)
