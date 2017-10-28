@@ -23,6 +23,14 @@
 |Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase)|Easy|10|[Solution.cpp](Algorithms/Warmup/Staircase/Solution.cpp)|
 |Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Mini-Max%20Sum/Solution.cpp)|
 |Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|Easy|10|[Solution.java](Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)|
+|Search|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)|Easy|30|[Solution.java](Algorithms/Search/Ice%20Cream%20Parlor/Solution.java)|
+|Search|[KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)|Medium|35|[Solution.cpp](Algorithms/Search/KnightL%20on%20a%20Chessboard/Solution.cpp)|
+|Search|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)|Easy|45|[Solution.java](Algorithms/Search/Missing%20Numbers/Solution.java)|
+|Search|[Pairs](https://www.hackerrank.com/challenges/pairs)|Medium|50|[Solution.java](Algorithms/Search/Pairs/Solution.java)|
+|Search|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)|Easy|40|[Solution.java](Algorithms/Search/Sherlock%20and%20Array/Solution.java)|
+|Search|[Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)|Medium|50|[Solution.java](Algorithms/Search/Connected%20Cells%20in%20a%20Grid/Solution.java)|
+|Search|[Count Luck](https://www.hackerrank.com/challenges/count-luck)|Medium|50|[Solution.java](Algorithms/Search/Count%20Luck/Solution.java)|
+|Search|[Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree)|Medium|50|[Solution.java](Algorithms/Search/Cut%20the%20Tree/Solution.java)|
 |Graph Theory|[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)|Medium|30|[Solution.java](Algorithms/Graph%20Theory/Roads%20and%20Libraries/Solution.java)|
 |Graph Theory|[Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)|Medium|55|[Solution.java](Algorithms/Graph%20Theory/Breadth%20First%20Search%20Shortest%20Reach/Solution.java)|
 |Graph Theory|[Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Kruskal%20MST%20Really%20Special%20Subtree/Solution.java)|
