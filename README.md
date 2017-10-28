@@ -53,6 +53,15 @@ platform tests of a given problem.
 |Arrays|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array)|Easy|15|[Solution.cpp](Data%20Structures/Arrays/2D%20Array%20-%20DS/Solution.cpp)|
 |Arrays|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|Easy|20|[Solution.java](Data%20Structures/Arrays/Left%20Rotation/Solution.java)|
 |Arrays|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|Medium|25|[Solution.cpp](Data%20Structures/Arrays/Sparse%20Arrays/Solution.cpp)|
+|Trees|[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Preorder%20Traversal/Solution.java)|
+|Trees|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Postorder%20Traversal/Solution.java)|
+|Trees|[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Inorder%20Traversal/Solution.java)|
+|Trees|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Height%20of%20a%20Binary%20Tree/Solution.java)|
+|Trees|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal)|Easy|20|[Solution.java](Data%20Structures/Trees/Tree:%20Level%20Order%20Traversal/Solution.java)|
+|Trees|[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion)|Easy|20|[Solution.java](Data%20Structures/Trees/Binary%20Search%20Tree%20:%20Insertion/Solution.java)|
+|Trees|[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)|Medium|20|[Solution.java](Data%20Structures/Trees/Tree:%20Huffman%20Decoding%20/Solution.java)|
+|Trees|[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor)|Easy|30|[Solution.java](Data%20Structures/Trees/Binary%20Search%20Tree%20:%20Lowest%20Common%20Ancestor/Solution.java)|
+|Trees|[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree)|Medium|30|[Solution.cpp](Data%20Structures/Trees/Is%20This%20a%20Binary%20Search%20Tree?/Solution.cpp)|
 
 
 ## Functional Programming
