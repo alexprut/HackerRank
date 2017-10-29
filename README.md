@@ -4,7 +4,7 @@
     </a>
 </div>
 
-##### Disclaimer
+#### Disclaimer
 The problem solutions and implementations are entirely provided by [Alex Prut](https://www.hackerrank.com/alexprut).
 The code is not refactored, no coding style is followed, the only purpose of the written code is to pass all the
 platform tests of a given problem.
@@ -15,6 +15,7 @@ platform tests of a given problem.
 1. [Functional Programming](#functional-programming)
 1. [Java](#java)
 1. [C++](#c++)
+1. [Distributed Systems](#distributed-systems)
 
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -117,6 +118,20 @@ platform tests of a given problem.
 |Introduction|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction)|Easy|10|[Solution.cpp](C++/Introduction/Arrays%20Introduction/Solution.cpp)|
 |Introduction|[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays)|Easy|30|[Solution.cpp](C++/Introduction/Variable%20Sized%20Arrays/Solution.cpp)|
 |Introduction|[Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions)|Medium|40|[Solution.cpp](C++/Introduction/Virtual%20Functions/Solution.cpp)|
+
+##  Distributed Systems
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Multiple Choise|[RPC - 1](https://www.hackerrank.com/challenges/mcq-challenge-3-1)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/RPC%20-%201/Solution.txt)|
+|Multiple Choise|[RPC - 2](https://www.hackerrank.com/challenges/mcq-challenge-3-2)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/RPC%20-%202/Solution.txt)|
+|Multiple Choise|[Clients and Servers](https://www.hackerrank.com/challenges/mcq-challenge-6)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/Clients%20and%20Servers/Solution.txt)|
+|Multiple Choise|[Distributed Objects - 1](https://www.hackerrank.com/challenges/mcq-challenge-7)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/Distributed%20Objects%20-%201/Solution.txt)|
+|Multiple Choise|[Distributed Objects - 2](https://www.hackerrank.com/challenges/mcq-challenge-8)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/Distributed%20Objects%20-%202/Solution.txt)|
+|Multiple Choise|[Distributed Objects - 3](https://www.hackerrank.com/challenges/mcq-challenge-9)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/Distributed%20Objects%20-%203/Solution.txt)|
+|Multiple Choise|[Distributed Objects - 4](https://www.hackerrank.com/challenges/mcq-challenge-10)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/Distributed%20Objects%20-%204/Solution.txt)|
+|Multiple Choise|[Distributed Objects - 5](https://www.hackerrank.com/challenges/mcq-challenge-11)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/Distributed%20Objects%20-%205/Solution.txt)|
+|Multiple Choise|[MapReduce - 2](https://www.hackerrank.com/challenges/mcq-challenge-13)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/MapReduce%20-%202/Solution.txt)|
+|Multiple Choise|[MapReduce - 3](https://www.hackerrank.com/challenges/mcq-challenge-14)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/MapReduce%20-%203/Solution.txt)|
 
 License
 =======
