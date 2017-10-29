@@ -29,6 +29,15 @@ platform tests of a given problem.
 |Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase)|Easy|10|[Solution.cpp](Algorithms/Warmup/Staircase/Solution.cpp)|
 |Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Mini-Max%20Sum/Solution.cpp)|
 |Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|Easy|10|[Solution.java](Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)|
+|Sorting|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)|Easy|30|[Solution.java](Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.java)|
+|Sorting|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)|Easy|30|[Solution.cpp](Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.cpp)|
+|Sorting|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)|Easy|30|[Solution.java](Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java)|
+|Sorting|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)|Easy|10|[Solution.java](Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.java)|
+|Sorting|[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)|Easy|30|[Solution.java](Algorithms/Sorting/Counting%20Sort%201/Solution.java)|
+|Sorting|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)|Easy|30|[Solution.java](Algorithms/Sorting/Counting%20Sort%202/Solution.java)|
+|Sorting|[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)|Medium|40|[Solution.java](Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java)|
+|Sorting|[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)|Easy|35|[Solution.cpp](Algorithms/Sorting/Closest%20Numbers/Solution.cpp)|
+|Sorting|[Find the Median](https://www.hackerrank.com/challenges/find-the-median)|Easy|35|[Solution.java](Algorithms/Sorting/Find%20the%20Median/Solution.java)|
 |Search|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)|Easy|30|[Solution.java](Algorithms/Search/Ice%20Cream%20Parlor/Solution.java)|
 |Search|[KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)|Medium|35|[Solution.cpp](Algorithms/Search/KnightL%20on%20a%20Chessboard/Solution.cpp)|
 |Search|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)|Easy|45|[Solution.java](Algorithms/Search/Missing%20Numbers/Solution.java)|
