@@ -112,7 +112,14 @@ platform tests of a given problem.
 |Data Structures|[Java Hashset](https://www.hackerrank.com/challenges/java-hashset)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Hashset/Solution.java)|
 |Data Structures|[Java Generics](https://www.hackerrank.com/challenges/java-generics)|Easy|15|[Solution.java](Java/Data%20Structures/Java%20Generics/Solution.java)|
 |Data Structures|[Java Comparator](https://www.hackerrank.com/challenges/java-comparator)|Medium|10|[Solution.java](Java/Data%20Structures/Java%20Comparator/Solution.java)|
-
+|Object Oriented Programming|[Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1)|Easy|5|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Inheritance%20I/Solution.java)|
+|Object Oriented Programming|[Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Inheritance%20II/Solution.java)|
+|Object Oriented Programming|[Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Abstract%20Class/Solution.java)|
+|Object Oriented Programming|[Java Interface](https://www.hackerrank.com/challenges/java-interface)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Interface/Solution.java)|
+|Object Oriented Programming|[Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Method%20Overriding/Solution.java)|
+|Object Oriented Programming|[Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword)/Solution.java)|
+|Object Oriented Programming|[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Instanceof%20keyword/Solution.java)|
+|Object Oriented Programming|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator)|Easy|15|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Iterator/Solution.java)|
 
 ##  C++
 |Subdomain|Challenge|Difficulty|Score|Solution|
