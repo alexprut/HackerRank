@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-117-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-126-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -110,6 +110,15 @@ platform tests of a given problem.
 ## Java
 |Subdomain|Challenge|Difficulty|Score|Solution|
 |-|-|-|-|-|
+|Introduction|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)|Easy|3|[Solution.java](Java/Introduction/Welcome%20to%20Java!/Solution.java)|
+|Introduction|[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)|Easy|5|[Solution.java](Java/Introduction/%20Java%20Stdin%20and%20Stdout%20I/Solution.java)|
+|Introduction|[Java If-Else](https://www.hackerrank.com/challenges/java-if-else)|Easy|10|[Solution.java](Java/Introduction/Java%20If-Else/Solution.java)|
+|Introduction|[Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)|Easy|10|[Solution.java](Java/Introduction/Java%20Stdin%20and%20Stdout%20II/Solution.java)|
+|Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)|Easy|10|[Solution.java](Java/Introduction/Java%20Output%20Formatting/Solution.java)|
+|Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)|Easy|10|[Solution.java](Java/Introduction/Java%20Loops%20I/Solution.java)|
+|Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops)|Easy|10|[Solution.java](Java/Introduction/Java%20Loops%20II/Solution.java)|
+|Introduction|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)|Easy|10|[Solution.java](Java/Introduction/Java%20End-of-file/Solution.java)|
+|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)|Easy|10|[Solution.java](Java/Introduction/Java%20Int%20to%20String/Solution.java)|
 |Data Structures|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)|Easy|5|[Solution.java](Java/Data%20Structures/Java%201D%20Array/Solution.java)|
 |Data Structures|[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)|Easy|10|[Solution.java](Java/Data%20Structures/Java%202D%20Array/Solution.java)|
 |Data Structures|[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Subarray/Solution.java)|
