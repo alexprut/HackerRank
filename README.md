@@ -139,6 +139,13 @@ platform tests of a given problem.
 |Introduction|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction)|Easy|10|[Solution.cpp](C++/Introduction/Arrays%20Introduction/Solution.cpp)|
 |Introduction|[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays)|Easy|30|[Solution.cpp](C++/Introduction/Variable%20Sized%20Arrays/Solution.cpp)|
 |Introduction|[Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions)|Medium|40|[Solution.cpp](C++/Introduction/Virtual%20Functions/Solution.cpp)|
+|Classes|[Structs](https://www.hackerrank.com/challenges/c-tutorial-struct)|Easy|10|[Solution.cpp](C++/Classes/Structs/Solution.cpp)|
+|Classes|[Class](https://www.hackerrank.com/challenges/c-tutorial-class)|Easy|10|[Solution.cpp](C++/Classes/Class/Solution.cpp)|
+|Classes|[Classes and Objects](https://www.hackerrank.com/challenges/classes-objects)|Easy|20|[Solution.cpp](C++/Classes/Classes%20and%20Objects/Solution.cpp)|
+|Classes|[Box It!](https://www.hackerrank.com/challenges/box-it)|Easy|30|[Solution.cpp](C++/Classes/Box%20It!/Solution.cpp)|
+|Classes|[Inherited Code](https://www.hackerrank.com/challenges/inherited-code)|Medium|30|[Solution.cpp](C++/Classes/Inherited%20Code/Solution.cpp)|
+|Classes|[Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server)|Medium|30|[Solution.cpp](C++/Classes/Exceptional%20Server/Solution.cpp)|
+|Classes|[Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism)|Hard|60|[Solution.cpp](C++/Classes/Abstract%20Classes%20-%20Polymorphism/Solution.cpp)|
 
 ##  Distributed Systems
 |Subdomain|Challenge|Difficulty|Score|Solution|
