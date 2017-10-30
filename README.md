@@ -76,6 +76,7 @@ platform tests of a given problem.
 |Trees|[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)|Medium|20|[Solution.java](Data%20Structures/Trees/Tree:%20Huffman%20Decoding%20/Solution.java)|
 |Trees|[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor)|Easy|30|[Solution.java](Data%20Structures/Trees/Binary%20Search%20Tree%20:%20Lowest%20Common%20Ancestor/Solution.java)|
 |Trees|[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree)|Medium|30|[Solution.cpp](Data%20Structures/Trees/Is%20This%20a%20Binary%20Search%20Tree?/Solution.cpp)|
+|Trie|[Contacts](https://www.hackerrank.com/challenges/contacts)|Medium|40|[Solution.cpp](Data%20Structures/Trie/Contacts/Solution.cpp)|
 
 
 ## Functional Programming
