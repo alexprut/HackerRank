@@ -63,6 +63,10 @@ platform tests of a given problem.
 |Arrays|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array)|Easy|15|[Solution.cpp](Data%20Structures/Arrays/2D%20Array%20-%20DS/Solution.cpp)|
 |Arrays|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|Easy|20|[Solution.java](Data%20Structures/Arrays/Left%20Rotation/Solution.java)|
 |Arrays|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|Medium|25|[Solution.cpp](Data%20Structures/Arrays/Sparse%20Arrays/Solution.cpp)|
+|Linked Lists|[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/Solution.java)|
+|Linked Lists|[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)|
+|Linked Lists|[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)|Medium|5|[Solution.java](Data%20Structures/Linked%20Lists/Cycle%20Detection/Solution.java)|
+|Linked Lists|[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Find%20Merge%20Point%20of%20Two%20Lists/Solution.java)|
 |Trees|[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Preorder%20Traversal/Solution.java)|
 |Trees|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Postorder%20Traversal/Solution.java)|
 |Trees|[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Inorder%20Traversal/Solution.java)|
