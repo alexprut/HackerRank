@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-129-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-133-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -26,6 +26,10 @@ platform tests of a given problem.
 |Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading)|Easy|10|[Solution.java](Algorithms/Implementation/Grading%20Students/Solution.java)|
 |Implementation|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)|Medium|20|[Solution.cpp](Algorithms/Implementation/Extra%20Long%20Factorials/Solution.cpp)|
 |Implementation|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|Medium|25|[Solution.cpp](Algorithms/Implementation/The%20Time%20in%20Words/Solution.cpp)|
+|Strings|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)|Easy|10|[Solution.java](Algorithms/Strings/Super%20Reduced%20String/Solution.java)|
+|Strings|[CamelCase](https://www.hackerrank.com/challenges/camelcase)|Easy|15|[Solution.java](Algorithms/Strings/CamelCase/Solution.java)|
+|Strings|[Anagram](https://www.hackerrank.com/challenges/anagram)|Easy|25|[Solution.java](Algorithms/Strings/Anagram/Solution.java)|
+|Strings|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)|Easy|30|[Solution.java](Algorithms/Strings/Making%20Anagrams/Solution.java)|
 |Warmup|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|Easy|1|[Solution.cpp](Algorithms/Warmup/Solve%20Me%20First/Solution.cpp)|
 |Warmup|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Simple%20Array%20Sum/Solution.cpp)|
 |Warmup|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|Easy|10|[Solution.cpp](Algorithms/Warmup/Compare%20the%20Triplets/Solution.cpp)|
