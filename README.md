@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-140-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-142-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -150,6 +150,8 @@ platform tests of a given problem.
 |Object Oriented Programming|[Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword)/Solution.java)|
 |Object Oriented Programming|[Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Instanceof%20keyword/Solution.java)|
 |Object Oriented Programming|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator)|Easy|15|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Iterator/Solution.java)|
+|Exception Handling|[Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)|Easy|10|[Solution.java](Java/Exception%20Handling/Java%20Exception%20Handling%20(Try-catch)/Solution.java)|
+|Exception Handling|[Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)|Easy|15|[Solution.java](Java/Exception%20Handling/Java%20Exception%20Handling/Solution.java)|
 
 ##  C++
 |Subdomain|Challenge|Difficulty|Score|Solution|
