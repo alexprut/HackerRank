@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-142-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-147-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -173,6 +173,11 @@ platform tests of a given problem.
 |Classes|[Inherited Code](https://www.hackerrank.com/challenges/inherited-code)|Medium|30|[Solution.cpp](C++/Classes/Inherited%20Code/Solution.cpp)|
 |Classes|[Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server)|Medium|30|[Solution.cpp](C++/Classes/Exceptional%20Server/Solution.cpp)|
 |Classes|[Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism)|Hard|60|[Solution.cpp](C++/Classes/Abstract%20Classes%20-%20Polymorphism/Solution.cpp)|
+|STL|[Vector-Sort](https://www.hackerrank.com/challenges/vector-sort)|Easy|10|[Solution](C++/STL/Vector-Sort/Solution.)|
+|STL|[Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound)|Easy|15|[Solution](C++/STL/Lower%20Bound-STL/Solution.)|
+|STL|[Sets-STL](https://www.hackerrank.com/challenges/cpp-sets)|Easy|15|[Solution.cpp](C++/STL/Sets-STL/Solution.cpp)|
+|STL|[Maps-STL](https://www.hackerrank.com/challenges/cpp-maps)|Easy|15|[Solution.cpp](C++/STL/Maps-STL/Solution.cpp)|
+|STL|[Deque-STL](https://www.hackerrank.com/challenges/deque-stl)|Medium|50|[Solution.cpp](C++/STL/Deque-STL/Solution.cpp)|
 
 ##  Distributed Systems
 |Subdomain|Challenge|Difficulty|Score|Solution|
