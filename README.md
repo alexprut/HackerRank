@@ -96,6 +96,7 @@ platform tests of a given problem.
 |Stacks|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets)|Medium|25|[Solution.java](Data%20Structures/Stacks/Balanced%20Brackets/Solution.java)|
 |Stacks|[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)|Easy|25|[Solution.java](Data%20Structures/Stacks/Equal%20Stacks/Solution.java)|
 |Stacks|[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor)|Medium|65|[Solution.java](Data%20Structures/Stacks/Simple%20Text%20Editor/Solution.java)|
+|Disjoint Set|[Components in a graph](https://www.hackerrank.com/challenges/components-in-graph)|Medium|50|[Solution.cpp](Data%20Structures/Disjoint%20Set/Components%20in%20a%20graph/Solution.cpp)|
 |Trie|[Contacts](https://www.hackerrank.com/challenges/contacts)|Medium|40|[Solution.cpp](Data%20Structures/Trie/Contacts/Solution.cpp)|
 
 
