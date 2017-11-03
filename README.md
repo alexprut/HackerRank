@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-147-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-152-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -76,6 +76,10 @@ platform tests of a given problem.
 |Arrays|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|Easy|20|[Solution.java](Data%20Structures/Arrays/Left%20Rotation/Solution.java)|
 |Arrays|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|Medium|25|[Solution.cpp](Data%20Structures/Arrays/Sparse%20Arrays/Solution.cpp)|
 |Linked Lists|[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/Solution.java)|
+|Linked Lists|[Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Tail%20of%20a%20Linked%20List/Solution.cpp)|
+|Linked Lists|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list/Solution.cpp)|
+|Linked Lists|[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Delete%20a%20Node/Solution.cpp)|
+|Linked Lists|[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Print%20in%20Reverse/Solution.cpp)|
 |Linked Lists|[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)|
 |Linked Lists|[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)|Medium|5|[Solution.java](Data%20Structures/Linked%20Lists/Cycle%20Detection/Solution.java)|
 |Linked Lists|[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Find%20Merge%20Point%20of%20Two%20Lists/Solution.java)|
@@ -173,8 +177,8 @@ platform tests of a given problem.
 |Classes|[Inherited Code](https://www.hackerrank.com/challenges/inherited-code)|Medium|30|[Solution.cpp](C++/Classes/Inherited%20Code/Solution.cpp)|
 |Classes|[Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server)|Medium|30|[Solution.cpp](C++/Classes/Exceptional%20Server/Solution.cpp)|
 |Classes|[Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism)|Hard|60|[Solution.cpp](C++/Classes/Abstract%20Classes%20-%20Polymorphism/Solution.cpp)|
-|STL|[Vector-Sort](https://www.hackerrank.com/challenges/vector-sort)|Easy|10|[Solution](C++/STL/Vector-Sort/Solution.)|
-|STL|[Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound)|Easy|15|[Solution](C++/STL/Lower%20Bound-STL/Solution.)|
+|STL|[Vector-Sort](https://www.hackerrank.com/challenges/vector-sort)|Easy|10|[Solution.cpp](C++/STL/Vector-Sort/Solution.cpp)|
+|STL|[Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound)|Easy|15|[Solution.cpp](C++/STL/Lower%20Bound-STL/Solution.cpp)|
 |STL|[Sets-STL](https://www.hackerrank.com/challenges/cpp-sets)|Easy|15|[Solution.cpp](C++/STL/Sets-STL/Solution.cpp)|
 |STL|[Maps-STL](https://www.hackerrank.com/challenges/cpp-maps)|Easy|15|[Solution.cpp](C++/STL/Maps-STL/Solution.cpp)|
 |STL|[Deque-STL](https://www.hackerrank.com/challenges/deque-stl)|Medium|50|[Solution.cpp](C++/STL/Deque-STL/Solution.cpp)|
