@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-153-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-160-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -158,6 +158,13 @@ platform tests of a given problem.
 |Object Oriented Programming|[Java Iterator](https://www.hackerrank.com/challenges/java-iterator)|Easy|15|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Iterator/Solution.java)|
 |Exception Handling|[Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)|Easy|10|[Solution.java](Java/Exception%20Handling/Java%20Exception%20Handling%20(Try-catch)/Solution.java)|
 |Exception Handling|[Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)|Easy|15|[Solution.java](Java/Exception%20Handling/Java%20Exception%20Handling/Solution.java)|
+|Advanced|[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)|Easy|15|[Solution.java](Java/Advanced/Java%20Varargs%20-%20Simple%20Addition/Solution.java)|
+|Advanced|[Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes)|Easy|15|[Solution.java](Java/Advanced/Java%20Reflection%20-%20Attributes/Solution.java)|
+|Advanced|[Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)|Easy|15|[Solution.java](Java/Advanced/Java%20Factory%20Pattern/Solution.java)|
+|Advanced|[Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)|Easy|15|[Solution.java](Java/Advanced/Java%20Singleton%20Pattern/Solution.java)|
+|Advanced|[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern)|Medium|40|[Solution.java](Java/Advanced/Java%20Visitor%20Pattern/Solution.java)|
+|Advanced|[Java Annotations](https://www.hackerrank.com/challenges/java-annotations)|Medium|25|[Solution.java](Java/Advanced/Java%20Annotations/Solution.java)|
+|Advanced|[Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)|Medium|30|[Solution.java](Java/Advanced/Java%20Lambda%20Expressions/Solution.java)|
 
 ##  C++
 |Subdomain|Challenge|Difficulty|Score|Solution|
