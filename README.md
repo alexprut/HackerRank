@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-160-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-164-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -191,6 +191,10 @@ platform tests of a given problem.
 |STL|[Sets-STL](https://www.hackerrank.com/challenges/cpp-sets)|Easy|15|[Solution.cpp](C++/STL/Sets-STL/Solution.cpp)|
 |STL|[Maps-STL](https://www.hackerrank.com/challenges/cpp-maps)|Easy|15|[Solution.cpp](C++/STL/Maps-STL/Solution.cpp)|
 |STL|[Deque-STL](https://www.hackerrank.com/challenges/deque-stl)|Medium|50|[Solution.cpp](C++/STL/Deque-STL/Solution.cpp)|
+|Inheritance|[Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction)|Easy|20|[Solution.cpp](C++/Inheritance/Inheritance%20Introduction/Solution.cpp)|
+|Inheritance|[Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area)|Easy|25|[Solution.cpp](C++/Inheritance/Rectangle%20Area/Solution.cpp)|
+|Inheritance|[Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp)|Easy|25|[Solution.cpp](C++/Inheritance/Multi%20Level%20Inheritance/Solution.cpp)|
+|Inheritance|[Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions)|Medium|30|[Solution.cpp](C++/Inheritance/Accessing%20Inherited%20Functions/Solution.cpp)|
 
 ##  Distributed Systems
 |Subdomain|Challenge|Difficulty|Score|Solution|
