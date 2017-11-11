@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-173-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-174-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -171,6 +171,7 @@ platform tests of a given problem.
 |Advanced|[Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)|Easy|15|[Solution.java](Java/Advanced/Java%20Singleton%20Pattern/Solution.java)|
 |Advanced|[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern)|Medium|40|[Solution.java](Java/Advanced/Java%20Visitor%20Pattern/Solution.java)|
 |Advanced|[Java Annotations](https://www.hackerrank.com/challenges/java-annotations)|Medium|25|[Solution.java](Java/Advanced/Java%20Annotations/Solution.java)|
+|Advanced|[Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance)|Easy|20|[Solution.java](Java/Advanced/Covariant%20Return%20Types/Solution.java)|
 |Advanced|[Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)|Medium|30|[Solution.java](Java/Advanced/Java%20Lambda%20Expressions/Solution.java)|
 
 ##  C++
