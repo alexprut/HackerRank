@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-180-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-181-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -211,6 +211,7 @@ platform tests of a given problem.
 |Inheritance|[Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions)|Medium|30|[Solution.cpp](C++/Inheritance/Accessing%20Inherited%20Functions/Solution.cpp)|
 |Other Concepts|[C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates)|Easy|20|[Solution.cpp](C++/Other%20Concepts/C++%20Class%20Templates/Solution.cpp)|
 |Other Concepts|[Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution)|Easy|25|[Solution.cpp](C++/Other%20Concepts/Preprocessor%20Solution/Solution.cpp)|
+|Other Concepts|[Overload Operators](https://www.hackerrank.com/challenges/overload-operators)|Easy|30|[Solution](C++/Other%20Concepts/Overload%20Operators/Solution.)|
 
 ##  Distributed Systems
 |Subdomain|Challenge|Difficulty|Score|Solution|
