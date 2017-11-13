@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-179-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-180-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -26,6 +26,7 @@ platform tests of a given problem.
 |Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading)|Easy|10|[Solution.java](Algorithms/Implementation/Grading%20Students/Solution.java)|
 |Implementation|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)|Easy|10|[Solution.cpp](Algorithms/Implementation/Apple%20and%20Orange/Solution.cpp)|
 |Implementation|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo)|Easy|10|[Solution.cpp](Algorithms/Implementation/Kangaroo/Solution.cpp)|
+|Implementation|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)|Easy|10|[Solution.java](Algorithms/Implementation/Between%20Two%20Sets/Solution.java)|
 |Implementation|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)|Easy|10|[Solution.java](Algorithms/Implementation/Sock%20Merchant/Solution.java)|
 |Implementation|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)|Medium|20|[Solution.cpp](Algorithms/Implementation/Extra%20Long%20Factorials/Solution.cpp)|
 |Implementation|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|Medium|25|[Solution.cpp](Algorithms/Implementation/The%20Time%20in%20Words/Solution.cpp)|
