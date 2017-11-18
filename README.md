@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-182-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-183-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -227,7 +227,8 @@ platform tests of a given problem.
 |Multiple Choise|[Distributed Objects - 5](https://www.hackerrank.com/challenges/mcq-challenge-11)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/Distributed%20Objects%20-%205/Solution.txt)|
 |Multiple Choise|[MapReduce - 2](https://www.hackerrank.com/challenges/mcq-challenge-13)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/MapReduce%20-%202/Solution.txt)|
 |Multiple Choise|[MapReduce - 3](https://www.hackerrank.com/challenges/mcq-challenge-14)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/MapReduce%20-%203/Solution.txt)|
-|MapReduce Basics|[Relational MapReduce Patterns #2 - Selections](https://www.hackerrank.com/challenges/relational-mapreduce-patterns-1-selections)|Easy|25|[Solution.java](Distributed%20Systems/MapReduce%20Basics/Relational%20MapReduce%20Patterns%20#2%20-%20Selections/Solution.java)|
+|MapReduce Basics|[Relational MapReduce Patterns #1 - Intersections](https://www.hackerrank.com/challenges/relational-mapreduce-patterns-1-intersections)|Medium|25|[Solution.java](Distributed%20Systems/MapReduce%20Basics/Relational%20MapReduce%20Patterns%201%20-%20Intersections/Solution.java)|
+|MapReduce Basics|[Relational MapReduce Patterns #2 - Selections](https://www.hackerrank.com/challenges/relational-mapreduce-patterns-1-selections)|Easy|25|[Solution.java](Distributed%20Systems/MapReduce%20Basics/Relational%20MapReduce%20Patterns%202%20-%20Selections/Solution.java)|
 
 License
 =======
