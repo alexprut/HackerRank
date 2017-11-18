@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-183-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-187-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -66,6 +66,10 @@ platform tests of a given problem.
 |Graph Theory|[Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Kruskal%20MST%20Really%20Special%20Subtree/Solution.java)|
 |Graph Theory|[Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Snakes%20and%20Ladders%20The%20Quickest%20Way%20Up/Solution.java)|
 |Graph Theory|[Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)|Medium|60|[Solution.java](Algorithms/Graph%20Theory/Prim's%20MST%20Special%20Subtree/Solution.java)|
+|Greedy|[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)|Easy|15|[Solution.java](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java)|
+|Greedy|[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)|Easy|15|[Solution.cpp](Algorithms/Greedy/Marc's%20Cakewalk/Solution.cpp)|
+|Greedy|[Luck Balance](https://www.hackerrank.com/challenges/luck-balance)|Easy|20|[Solution.cpp](Algorithms/Greedy/Luck%20Balance/Solution.cpp)|
+|Greedy|[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)|Easy|20|[Solution.java](Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)|
 |Dynamic Programming|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard|60|[Solution.cpp](Algorithms/Dynamic%20Programming/The%20Coin%20Change%20Problem/Solution.cpp)|
 |Dynamic Programming|[Candies](https://www.hackerrank.com/challenges/candies)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Candies/Solution.java)|
 |Dynamic Programming|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium|45|[Solution.java](Algorithms/Dynamic%20Programming/Fibonacci%20Modified/Solution.java)|
