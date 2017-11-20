@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-187-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-188-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -141,6 +141,7 @@ platform tests of a given problem.
 |Recursion|[String Mingling](https://www.hackerrank.com/challenges/string-mingling)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/String%20Mingling/Solution.hs)|
 |Recursion|[String-o-Permute](https://www.hackerrank.com/challenges/string-o-permute)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/String-o-Permute/Solution.hs)|
 |Recursion|[String Compression](https://www.hackerrank.com/challenges/string-compression)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/String%20Compression/Solution.hs)|
+|Functional Structures|[Swap Nodes](https://www.hackerrank.com/challenges/swap-nodes)|Medium|40|[Solution.hs](Functional%20Programming/Functional%20Structures/Swap%20Nodes/Solution.hs)|
 |Memoization and DP|[Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp)|Easy|30|[Solution.hs](Functional%20Programming/Memoization%20and%20DP/Fibonacci/Solution.hs)|
 
 
