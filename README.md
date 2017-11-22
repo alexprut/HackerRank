@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-189-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-194-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -156,8 +156,12 @@ platform tests of a given problem.
 |Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)|Easy|10|[Solution.java](Java/Introduction/Java%20Output%20Formatting/Solution.java)|
 |Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)|Easy|10|[Solution.java](Java/Introduction/Java%20Loops%20I/Solution.java)|
 |Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops)|Easy|10|[Solution.java](Java/Introduction/Java%20Loops%20II/Solution.java)|
+|Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)|Easy|10|[Solution.java](Java/Introduction/Java%20Datatypes/Solution.java)|
 |Introduction|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)|Easy|10|[Solution.java](Java/Introduction/Java%20End-of-file/Solution.java)|
 |Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)|Easy|10|[Solution.java](Java/Introduction/Java%20Int%20to%20String/Solution.java)|
+|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|Easy|5|[Solution.java](Java/Strings/Java%20Strings%20Introduction/Solution.java)|
+|Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution.java](Java/Strings/Java%20Substring/Solution.java)|
+|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)|Easy|10|[Solution.java](Java/Strings/Java%20String%20Reverse/Solution.java)|
 |Data Structures|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)|Easy|5|[Solution.java](Java/Data%20Structures/Java%201D%20Array/Solution.java)|
 |Data Structures|[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)|Easy|10|[Solution.java](Java/Data%20Structures/Java%202D%20Array/Solution.java)|
 |Data Structures|[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Subarray/Solution.java)|
@@ -180,6 +184,7 @@ platform tests of a given problem.
 |Exception Handling|[Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)|Easy|15|[Solution.java](Java/Exception%20Handling/Java%20Exception%20Handling/Solution.java)|
 |Advanced|[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)|Easy|15|[Solution.java](Java/Advanced/Java%20Varargs%20-%20Simple%20Addition/Solution.java)|
 |Advanced|[Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes)|Easy|15|[Solution.java](Java/Advanced/Java%20Reflection%20-%20Attributes/Solution.java)|
+|Advanced|[Can You Access?](https://www.hackerrank.com/challenges/can-you-access)|Medium|15|[Solution.java](Java/Advanced/Can%20You%20Access?/Solution.java)|
 |Advanced|[Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)|Easy|15|[Solution.java](Java/Advanced/Java%20Factory%20Pattern/Solution.java)|
 |Advanced|[Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)|Easy|15|[Solution.java](Java/Advanced/Java%20Singleton%20Pattern/Solution.java)|
 |Advanced|[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern)|Medium|40|[Solution.java](Java/Advanced/Java%20Visitor%20Pattern/Solution.java)|
@@ -218,7 +223,7 @@ platform tests of a given problem.
 |Inheritance|[Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions)|Medium|30|[Solution.cpp](C++/Inheritance/Accessing%20Inherited%20Functions/Solution.cpp)|
 |Other Concepts|[C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates)|Easy|20|[Solution.cpp](C++/Other%20Concepts/C++%20Class%20Templates/Solution.cpp)|
 |Other Concepts|[Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution)|Easy|25|[Solution.cpp](C++/Other%20Concepts/Preprocessor%20Solution/Solution.cpp)|
-|Other Concepts|[Overload Operators](https://www.hackerrank.com/challenges/overload-operators)|Easy|30|[Solution](C++/Other%20Concepts/Overload%20Operators/Solution.)|
+|Other Concepts|[Overload Operators](https://www.hackerrank.com/challenges/overload-operators)|Easy|30|[Solution.java](C++/Other%20Concepts/Overload%20Operators/Solution.java)|
 
 ##  Distributed Systems
 |Subdomain|Challenge|Difficulty|Score|Solution|
