@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-203-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-204-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -23,6 +23,16 @@ platform tests of a given problem.
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
 |-|-|-|-|-|
+|Warmup|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|Easy|1|[Solution.cpp](Algorithms/Warmup/Solve%20Me%20First/Solution.cpp)|
+|Warmup|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Simple%20Array%20Sum/Solution.cpp)|
+|Warmup|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|Easy|10|[Solution.cpp](Algorithms/Warmup/Compare%20the%20Triplets/Solution.cpp)|
+|Warmup|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.cpp)|
+|Warmup|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|Easy|10|[Solution.cpp](Algorithms/Warmup/Diagonal%20Difference/Solution.cpp)|
+|Warmup|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|Easy|10|[Solution.cpp](Algorithms/Warmup/Plus%20Minus/Solution.cpp)|
+|Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase)|Easy|10|[Solution.cpp](Algorithms/Warmup/Staircase/Solution.cpp)|
+|Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Mini-Max%20Sum/Solution.cpp)|
+|Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|Easy|10|[Solution.java](Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)|
+|Warmup|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|Easy|15|[Solution.java](Algorithms/Warmup/Time%20Conversion/Solution.java)|
 |Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading)|Easy|10|[Solution.java](Algorithms/Implementation/Grading%20Students/Solution.java)|
 |Implementation|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)|Easy|10|[Solution.cpp](Algorithms/Implementation/Apple%20and%20Orange/Solution.cpp)|
 |Implementation|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo)|Easy|10|[Solution.cpp](Algorithms/Implementation/Kangaroo/Solution.cpp)|
@@ -41,15 +51,6 @@ platform tests of a given problem.
 |Strings|[Anagram](https://www.hackerrank.com/challenges/anagram)|Easy|25|[Solution.java](Algorithms/Strings/Anagram/Solution.java)|
 |Strings|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)|Easy|30|[Solution.java](Algorithms/Strings/Making%20Anagrams/Solution.java)|
 |Strings|[Two Strings](https://www.hackerrank.com/challenges/two-strings)|Easy|25|[Solution.java](Algorithms/Strings/Two%20Strings/Solution.java)|
-|Warmup|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|Easy|1|[Solution.cpp](Algorithms/Warmup/Solve%20Me%20First/Solution.cpp)|
-|Warmup|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Simple%20Array%20Sum/Solution.cpp)|
-|Warmup|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|Easy|10|[Solution.cpp](Algorithms/Warmup/Compare%20the%20Triplets/Solution.cpp)|
-|Warmup|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.cpp)|
-|Warmup|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|Easy|10|[Solution.cpp](Algorithms/Warmup/Diagonal%20Difference/Solution.cpp)|
-|Warmup|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|Easy|10|[Solution.cpp](Algorithms/Warmup/Plus%20Minus/Solution.cpp)|
-|Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase)|Easy|10|[Solution.cpp](Algorithms/Warmup/Staircase/Solution.cpp)|
-|Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Mini-Max%20Sum/Solution.cpp)|
-|Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|Easy|10|[Solution.java](Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)|
 |Sorting|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)|Easy|30|[Solution.java](Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.java)|
 |Sorting|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)|Easy|30|[Solution.cpp](Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.cpp)|
 |Sorting|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)|Easy|30|[Solution.java](Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java)|
