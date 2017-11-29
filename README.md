@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-204-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-206-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -116,6 +116,8 @@ platform tests of a given problem.
 |Stacks|[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)|Easy|25|[Solution.java](Data%20Structures/Stacks/Equal%20Stacks/Solution.java)|
 |Stacks|[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor)|Medium|65|[Solution.java](Data%20Structures/Stacks/Simple%20Text%20Editor/Solution.java)|
 |Queues|[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks)|Medium|30|[Solution.cpp](Data%20Structures/Queues/Queue%20using%20Two%20Stacks/Solution.cpp)|
+|Heap|[QHEAP1](https://www.hackerrank.com/challenges/qheap1)|Easy|25|[Solution.java](Data%20Structures/Heap/QHEAP1/Solution.java)|
+|Heap|[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median)|Hard|50|[Solution.java](Data%20Structures/Heap/Find%20the%20Running%20Median/Solution.java)|
 |Disjoint Set|[Components in a graph](https://www.hackerrank.com/challenges/components-in-graph)|Medium|50|[Solution.cpp](Data%20Structures/Disjoint%20Set/Components%20in%20a%20graph/Solution.cpp)|
 |Multiple Choice|[Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees)|Hard|5|[Solution.txt](Data%20Structures/Multiple%20Choice/%20Data%20Structures%20MCQ%201/Solution.txt)|
 |Multiple Choice|[Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures)|Hard|5|[Solution.txt](Data%20Structures/Multiple%20Choice/%20Data%20Structures%20MCQ%202/Solution.txt)|
