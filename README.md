@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-206-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-211-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -97,9 +97,14 @@ platform tests of a given problem.
 |Linked Lists|[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/Solution.java)|
 |Linked Lists|[Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Tail%20of%20a%20Linked%20List/Solution.cpp)|
 |Linked Lists|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list/Solution.cpp)|
+|Linked Lists|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Insert%20a%20node%20at%20a%20specific%20position%20in%20a%20linked%20list/Solution.java)|
 |Linked Lists|[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Delete%20a%20Node/Solution.cpp)|
 |Linked Lists|[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Print%20in%20Reverse/Solution.cpp)|
 |Linked Lists|[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)|
+|Linked Lists|[Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Compare%20two%20linked%20lists/Solution.cpp)|
+|Linked Lists|[Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Merge%20two%20sorted%20linked%20lists/Solution.java)|
+|Linked Lists|[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Get%20Node%20Value/Solution.java)|
+|Linked Lists|[Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Delete%20duplicate-value%20nodes%20from%20a%20sorted%20linked%20list/Solution.java)|
 |Linked Lists|[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)|Medium|5|[Solution.java](Data%20Structures/Linked%20Lists/Cycle%20Detection/Solution.java)|
 |Linked Lists|[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Find%20Merge%20Point%20of%20Two%20Lists/Solution.java)|
 |Trees|[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Preorder%20Traversal/Solution.java)|
