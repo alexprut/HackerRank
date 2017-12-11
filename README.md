@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-221-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-222-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -135,6 +135,7 @@ platform tests of a given problem.
 |Multiple Choice|[Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures)|Hard|5|[Solution.txt](Data%20Structures/Multiple%20Choice/%20Data%20Structures%20MCQ%202/Solution.txt)|
 |Multiple Choice|[Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1)|Hard|5|[Solution.txt](Data%20Structures/Multiple%20Choice/%20Data%20Structures%20MCQ%203/Solution.txt)|
 |Trie|[Contacts](https://www.hackerrank.com/challenges/contacts)|Medium|40|[Solution.cpp](Data%20Structures/Trie/Contacts/Solution.cpp)|
+|Trie|[No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set)|Hard|50|[Solution.java](Data%20Structures/Trie/No%20Prefix%20Set/Solution.java)|
 
 
 ## Functional Programming
