@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-222-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-225-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -186,7 +186,10 @@ platform tests of a given problem.
 |Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops)|Easy|10|[Solution.java](Java/Introduction/Java%20Loops%20II/Solution.java)|
 |Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)|Easy|10|[Solution.java](Java/Introduction/Java%20Datatypes/Solution.java)|
 |Introduction|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)|Easy|10|[Solution.java](Java/Introduction/Java%20End-of-file/Solution.java)|
+|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)|Easy|10|[Solution.java](Java/Introduction/Java%20Static%20Initializer%20Block/Solution.java)|
 |Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)|Easy|10|[Solution.java](Java/Introduction/Java%20Int%20to%20String/Solution.java)|
+|Introduction|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)|Easy|15|[Solution.java](Java/Introduction/Java%20Date%20and%20Time/Solution.java)|
+|Introduction|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)|Easy|15|[Solution.java](Java/Introduction/Java%20Currency%20Formatter/Solution.java)|
 |Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|Easy|5|[Solution.java](Java/Strings/Java%20Strings%20Introduction/Solution.java)|
 |Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution.java](Java/Strings/Java%20Substring/Solution.java)|
 |Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)|Easy|10|[Solution.java](Java/Strings/Java%20String%20Reverse/Solution.java)|
