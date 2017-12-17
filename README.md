@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-225-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-227-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -111,6 +111,8 @@ platform tests of a given problem.
 |Linked Lists|[Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Delete%20duplicate-value%20nodes%20from%20a%20sorted%20linked%20list/Solution.java)|
 |Linked Lists|[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)|Medium|5|[Solution.java](Data%20Structures/Linked%20Lists/Cycle%20Detection/Solution.java)|
 |Linked Lists|[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Find%20Merge%20Point%20of%20Two%20Lists/Solution.java)|
+|Linked Lists|[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/Solution.cpp)|
+|Linked Lists|[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/Solution.cpp)|
 |Trees|[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Preorder%20Traversal/Solution.java)|
 |Trees|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Postorder%20Traversal/Solution.java)|
 |Trees|[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Inorder%20Traversal/Solution.java)|
