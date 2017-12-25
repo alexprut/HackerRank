@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-228-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-234-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -44,6 +44,12 @@ platform tests of a given problem.
 |Implementation|[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit)|Easy|10|[Solution.java](Algorithms/Implementation/Bon%20Appétit/Solution.java)|
 |Implementation|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)|Easy|10|[Solution.java](Algorithms/Implementation/Sock%20Merchant/Solution.java)|
 |Implementation|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book)|Easy|10|[Solution.java](Algorithms/Implementation/Drawing%20Book%20/Solution.java)|
+|Implementation|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)|Easy|15|[Solution.java](Algorithms/Implementation/Counting%20Valleys/Solution.java)|
+|Implementation|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)|Easy|15|[Solution.java](Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java)|
+|Implementation|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)|Easy|15|[Solution.java](Algorithms/Implementation/The%20Hurdle%20Race/Solution.java)|
+|Implementation|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)|Easy|20|[Solution.java](Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java)|
+|Implementation|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)|Easy|20|[Solution.java](Algorithms/Implementation/Utopian%20Tree/Solution.java)|
+|Implementation|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor)|Easy|20|[Solution.java](Algorithms/Implementation/Angry%20Professor/Solution.java)|
 |Implementation|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)|Medium|20|[Solution.cpp](Algorithms/Implementation/Extra%20Long%20Factorials/Solution.cpp)|
 |Implementation|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|Medium|25|[Solution.cpp](Algorithms/Implementation/The%20Time%20in%20Words/Solution.cpp)|
 |Strings|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)|Easy|10|[Solution.java](Algorithms/Strings/Super%20Reduced%20String/Solution.java)|
