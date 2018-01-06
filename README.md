@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-235-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-238-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -62,9 +62,12 @@ platform tests of a given problem.
 |Strings|[Anagram](https://www.hackerrank.com/challenges/anagram)|Easy|25|[Solution.java](Algorithms/Strings/Anagram/Solution.java)|
 |Strings|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)|Easy|30|[Solution.java](Algorithms/Strings/Making%20Anagrams/Solution.java)|
 |Strings|[Two Strings](https://www.hackerrank.com/challenges/two-strings)|Easy|25|[Solution.java](Algorithms/Strings/Two%20Strings/Solution.java)|
+|Sorting|[Big Sorting](https://www.hackerrank.com/challenges/big-sorting)|Easy|20|[Solution.java](Algorithms/Sorting/Big%20Sorting/Solution.java)|
 |Sorting|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)|Easy|30|[Solution.java](Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.java)|
 |Sorting|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)|Easy|30|[Solution.cpp](Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.cpp)|
 |Sorting|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)|Easy|30|[Solution.java](Algorithms/Sorting/Insertion%20Sort%20-%20Part%202/Solution.java)|
+|Sorting|[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)|Easy|30|[Solution.java](Algorithms/Sorting/Correctness%20and%20the%20Loop%20Invariant/Solution.java)|
+|Sorting|[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)|Easy|30|[Solution.java](Algorithms/Sorting/Running%20Time%20of%20Algorithms/Solution.java)|
 |Sorting|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)|Easy|10|[Solution.java](Algorithms/Sorting/Quicksort%201%20-%20Partition/Solution.java)|
 |Sorting|[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)|Easy|30|[Solution.java](Algorithms/Sorting/Counting%20Sort%201/Solution.java)|
 |Sorting|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)|Easy|30|[Solution.java](Algorithms/Sorting/Counting%20Sort%202/Solution.java)|
