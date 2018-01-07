@@ -96,6 +96,7 @@ platform tests of a given problem.
 |Dynamic Programming|[Candies](https://www.hackerrank.com/challenges/candies)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Candies/Solution.java)|
 |Dynamic Programming|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium|45|[Solution.java](Algorithms/Dynamic%20Programming/Fibonacci%20Modified/Solution.java)|
 |Dynamic Programming|[The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)|Medium|50|[Solution.cpp](Algorithms/Dynamic%20Programming/The%20Maximum%20Subarray/Solution.cpp)|
+|Dynamic Programming|[Substring Diff](https://www.hackerrank.com/challenges/substring-diff)|Medium|50/60|[Solution.java](Algorithms/Dynamic%20Programming/Substring%20Diff/Solution.java)|
 |Dynamic Programming|[Stock Maximize](https://www.hackerrank.com/challenges/stockmax)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Stock%20Maximize/Solution.java)|
 |Dynamic Programming|[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)|Medium|60|[Solution.java](Algorithms/Dynamic%20Programming/Knapsack/Solution.java)|
 |Recursion|[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum)|Medium|20|[Solution.java](Algorithms/Recursion/The%20Power%20Sum/Solution.java)|
