@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-238-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-241-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -207,6 +207,9 @@ platform tests of a given problem.
 |Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|Easy|5|[Solution.java](Java/Strings/Java%20Strings%20Introduction/Solution.java)|
 |Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution.java](Java/Strings/Java%20Substring/Solution.java)|
 |Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)|Easy|10|[Solution.java](Java/Strings/Java%20String%20Reverse/Solution.java)|
+|BigNumber|[Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger)|Easy|10|[Solution.java](Java/BigNumber/Java%20BigInteger/Solution.java)|
+|BigNumber|[Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)|Medium|20|[Solution.java](Java/BigNumber/Java%20BigDecimal/Solution.java)|
+|BigNumber|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test)|Easy|20|[Solution.java](Java/BigNumber/Java%20Primality%20Test/Solution.java)|
 |Data Structures|[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)|Easy|5|[Solution.java](Java/Data%20Structures/Java%201D%20Array/Solution.java)|
 |Data Structures|[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)|Easy|10|[Solution.java](Java/Data%20Structures/Java%202D%20Array/Solution.java)|
 |Data Structures|[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Subarray/Solution.java)|
