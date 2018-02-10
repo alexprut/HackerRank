@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-242-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-243-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -100,6 +100,7 @@ platform tests of a given problem.
 |Dynamic Programming|[Substring Diff](https://www.hackerrank.com/challenges/substring-diff)|Medium|50/60|[Solution.java](Algorithms/Dynamic%20Programming/Substring%20Diff/Solution.java)|
 |Dynamic Programming|[Stock Maximize](https://www.hackerrank.com/challenges/stockmax)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Stock%20Maximize/Solution.java)|
 |Dynamic Programming|[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)|Medium|60|[Solution.java](Algorithms/Dynamic%20Programming/Knapsack/Solution.java)|
+|Constructive Algorithms|[Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)|Medium|30|[Solution.java](Algorithms/Constructive%20Algorithms/Flipping%20the%20Matrix/Solution.java)|
 |Recursion|[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum)|Medium|20|[Solution.java](Algorithms/Recursion/The%20Power%20Sum/Solution.java)|
 |Recursion|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum)|Medium|30|[Solution.java](Algorithms/Recursion/Recursive%20Digit%20Sum/Solution.java)|
 
