@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-241-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-242-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -74,6 +74,7 @@ platform tests of a given problem.
 |Sorting|[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)|Medium|40|[Solution.java](Algorithms/Sorting/The%20Full%20Counting%20Sort/Solution.java)|
 |Sorting|[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)|Easy|35|[Solution.cpp](Algorithms/Sorting/Closest%20Numbers/Solution.cpp)|
 |Sorting|[Find the Median](https://www.hackerrank.com/challenges/find-the-median)|Easy|35|[Solution.java](Algorithms/Sorting/Find%20the%20Median/Solution.java)|
+|Search|[Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)|Medium|25|[Solution.java](Algorithms/Search/Hackerland%20Radio%20Transmitters/Solution.java)|
 |Search|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)|Easy|30|[Solution.java](Algorithms/Search/Ice%20Cream%20Parlor/Solution.java)|
 |Search|[KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)|Medium|35|[Solution.cpp](Algorithms/Search/KnightL%20on%20a%20Chessboard/Solution.cpp)|
 |Search|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)|Easy|45|[Solution.java](Algorithms/Search/Missing%20Numbers/Solution.java)|
