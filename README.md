@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-243-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-247-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -222,6 +222,10 @@ platform tests of a given problem.
 |Data Structures|[Java Hashset](https://www.hackerrank.com/challenges/java-hashset)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Hashset/Solution.java)|
 |Data Structures|[Java Generics](https://www.hackerrank.com/challenges/java-generics)|Easy|15|[Solution.java](Java/Data%20Structures/Java%20Generics/Solution.java)|
 |Data Structures|[Java Comparator](https://www.hackerrank.com/challenges/java-comparator)|Medium|10|[Solution.java](Java/Data%20Structures/Java%20Comparator/Solution.java)|
+|Data Structures|[Java Sort](https://www.hackerrank.com/challenges/java-sort)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Sort/Solution.java)|
+|Data Structures|[Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue)|Medium|20|[Solution.java](Java/Data%20Structures/Java%20Dequeue/Solution.java)|
+|Data Structures|[Java BitSet](https://www.hackerrank.com/challenges/java-bitset)|Easy|20|[Solution.java](Java/Data%20Structures/Java%20BitSet/Solution.java)|
+|Data Structures|[Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue)|Medium|20|[Solution.java](Java/Data%20Structures/Java%20Priority%20Queue/Solution.java)|
 |Object Oriented Programming|[Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1)|Easy|5|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Inheritance%20I/Solution.java)|
 |Object Oriented Programming|[Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Inheritance%20II/Solution.java)|
 |Object Oriented Programming|[Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class)|Easy|10|[Solution.java](Java/Object%20Oriented%20Programming/Java%20Abstract%20Class/Solution.java)|
