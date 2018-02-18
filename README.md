@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-247-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-248-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -141,6 +141,7 @@ platform tests of a given problem.
 |Stacks|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets)|Medium|25|[Solution.java](Data%20Structures/Stacks/Balanced%20Brackets/Solution.java)|
 |Stacks|[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)|Easy|25|[Solution.java](Data%20Structures/Stacks/Equal%20Stacks/Solution.java)|
 |Stacks|[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor)|Medium|65|[Solution.java](Data%20Structures/Stacks/Simple%20Text%20Editor/Solution.java)|
+|Stacks|[Waiter](https://www.hackerrank.com/challenges/waiter)|Medium|75|[Solution.java](Data%20Structures/Stacks/Waiter/Solution.java)|
 |Queues|[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks)|Medium|30|[Solution.cpp](Data%20Structures/Queues/Queue%20using%20Two%20Stacks/Solution.cpp)|
 |Heap|[QHEAP1](https://www.hackerrank.com/challenges/qheap1)|Easy|25|[Solution.java](Data%20Structures/Heap/QHEAP1/Solution.java)|
 |Heap|[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies)|Easy|25|[Solution.java](Data%20Structures/Heap/Jesse%20and%20Cookies/Solution.java)|
