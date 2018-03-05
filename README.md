@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-252-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-264-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -19,6 +19,7 @@ platform tests of a given problem.
 1. [Java](#java)
 1. [C++](#c++)
 1. [Distributed Systems](#distributed-systems)
+1. [Mathematics](#mathematics)
 
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -299,6 +300,24 @@ platform tests of a given problem.
 |Multiple Choise|[MapReduce - 3](https://www.hackerrank.com/challenges/mcq-challenge-14)|Easy|10|[Solution.txt](Distributed%20Systems/Multiple%20Choise/MapReduce%20-%203/Solution.txt)|
 |MapReduce Basics|[Relational MapReduce Patterns #1 - Intersections](https://www.hackerrank.com/challenges/relational-mapreduce-patterns-1-intersections)|Medium|25|[Solution.java](Distributed%20Systems/MapReduce%20Basics/Relational%20MapReduce%20Patterns%201%20-%20Intersections/Solution.java)|
 |MapReduce Basics|[Relational MapReduce Patterns #2 - Selections](https://www.hackerrank.com/challenges/relational-mapreduce-patterns-1-selections)|Easy|25|[Solution.java](Distributed%20Systems/MapReduce%20Basics/Relational%20MapReduce%20Patterns%202%20-%20Selections/Solution.java)|
+
+##  Mathematics
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Fundamentals|[Find the Point](https://www.hackerrank.com/challenges/find-point)|Easy|5|[Solution.java](Mathematics/Fundamentals/Find%20the%20Point/Solution.java)|
+|Fundamentals|[Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws)|Easy|5|[Solution.java](Mathematics/Fundamentals/Maximum%20Draws/Solution.java)|
+|Fundamentals|[Handshake](https://www.hackerrank.com/challenges/handshake)|Easy|10|[Solution.cpp](Mathematics/Fundamentals/Handshake/Solution.cpp)|
+|Fundamentals|[Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle)|Easy|10|[Solution.cpp](Mathematics/Fundamentals/Minimum%20Height%20Triangle/Solution.cpp)|
+|Fundamentals|[Army Game](https://www.hackerrank.com/challenges/game-with-cells)|Easy|10|[Solution.cpp](Mathematics/Fundamentals/Army%20Game/Solution.cpp)|
+|Fundamentals|[Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns)|Easy|10|[Solution.java](Mathematics/Fundamentals/Connecting%20Towns/Solution.java)|
+|Fundamentals|[Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting)|Easy|15|[Solution.java](Mathematics/Fundamentals/Cutting%20Paper%20Squares/Solution.java)|
+|Number Theory|[Constructing a Number](https://www.hackerrank.com/challenges/constructing-a-number)|Easy|15|[Solution.java](Mathematics/Number%20Theory/Constructing%20a%20Number/Solution.java)|
+|Algebra|[Combo Meal](https://www.hackerrank.com/challenges/combo-meal)|Easy|15|[Solution.java](Mathematics/Algebra/Combo%20Meal/Solution.java)|
+|Geometry|[Points On a Line](https://www.hackerrank.com/challenges/points-on-a-line)|Easy|10|[Solution.java](Mathematics/Geometry/Points%20On%20a%20Line/Solution.java)|
+|Linear Algebra Foundations|[Linear Algebra Foundations #1 - Matrix Addition](https://www.hackerrank.com/challenges/linear-algebra-foundations-1)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#1%20-%20Matrix%20Addition/Solution.txt)|
+|Linear Algebra Foundations|[Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#2%20-%20Matrix%20Subtraction/Solution.txt)|
+|Linear Algebra Foundations|[Linear Algebra Foundations #3- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#3-%20Matrix%20Multiplication/Solution.txt)|
+|Linear Algebra Foundations|[Linear Algebra Foundations #4- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#4-%20Matrix%20Multiplication/Solution.txt)|
 
 License
 =======
