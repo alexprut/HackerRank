@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-265-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-269-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -180,6 +180,9 @@ platform tests of a given problem.
 |Introduction|[Lambda Calculus - Evaluating Expressions #2](https://www.hackerrank.com/challenges/lambda-calculus-understanding-the-syntax)|Easy|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Evaluating%20Expressions%202/Solution.txt)|
 |Introduction|[Lambda Calculus - Evaluating Expressions #3](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression)|Easy|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Evaluating%20Expressions%203/Solution.txt)|
 |Introduction|[Lambda Calculus - Evaluating Expressions #4](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-1)|Medium|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Evaluating%20Expressions%204/Solution.txt)|
+|Introduction|[Lambda Calculus - Evaluating Expressions #5](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression-2)|Medium|5|[Solution.txt](Functional%20Programming/Introduction/Lambda%20Calculus%20-%20Evaluating%20Expressions%205/Solution.txt)|
+|Introduction|[Functions or Not?](https://www.hackerrank.com/challenges/functions-or-not)|Easy|5|[Solution.hs](Functional%20Programming/Introduction/Functions%20or%20Not?/Solution.hs)|
+|Introduction|[Compute the Perimeter of a Polygon](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon)|Easy|15|[Solution.hs](Functional%20Programming/Introduction/Compute%20the%20Perimeter%20of%20a%20Polygon/Solution.hs)|
 |Recursion|[Computing the GCD](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd)|Easy|2|[Solution.hs](Functional%20Programming/Recursion/Computing%20the%20GCD/Solution.hs)|
 |Recursion|[Fibonacci Numbers](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers)|Easy|2|[Solution.hs](Functional%20Programming/Recursion/Fibonacci%20Numbers/Solution.hs)|
 |Recursion|[Pascal's Triangle](https://www.hackerrank.com/challenges/pascals-triangle)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/Pascal's%20Triangle/Solution.hs)|
@@ -191,6 +194,7 @@ platform tests of a given problem.
 |Recursion|[Sequence full of colors](https://www.hackerrank.com/challenges/sequence-full-of-colors)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/Sequence%20full%20of%20colors/Solution.hs)|
 |Recursion|[Super Digit](https://www.hackerrank.com/challenges/super-digit)|Medium|20|[Solution.hs](Functional%20Programming/Recursion/Super%20Digit/Solution.hs)|
 |Functional Structures|[Swap Nodes](https://www.hackerrank.com/challenges/swap-nodes)|Medium|40|[Solution.hs](Functional%20Programming/Functional%20Structures/Swap%20Nodes/Solution.hs)|
+|Functional Structures|[Valid BST](https://www.hackerrank.com/challenges/valid-bst)|Medium|20|[Solution.hs](Functional%20Programming/Functional%20Structures/Valid%20BST/Solution.hs)|
 |Memoization and DP|[Fibonacci](https://www.hackerrank.com/challenges/fibonacci-fp)|Easy|30|[Solution.hs](Functional%20Programming/Memoization%20and%20DP/Fibonacci/Solution.hs)|
 |Ad Hoc|[Rotate String](https://www.hackerrank.com/challenges/rotate-string)|Easy|20|[Solution.hs](Functional%20Programming/Ad%20Hoc/Rotate%20String/Solution.hs)|
 |Ad Hoc|[Remove Duplicates](https://www.hackerrank.com/challenges/remove-duplicates)|Easy|10|[Solution.hs](Functional%20Programming/Ad%20Hoc/Remove%20Duplicates/Solution.hs)|
