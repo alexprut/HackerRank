@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-269-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-271-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -52,6 +52,7 @@ platform tests of a given problem.
 |Implementation|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)|Easy|20|[Solution.java](Algorithms/Implementation/Utopian%20Tree/Solution.java)|
 |Implementation|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor)|Easy|20|[Solution.java](Algorithms/Implementation/Angry%20Professor/Solution.java)|
 |Implementation|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)|Easy|15|[Solution.java](Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.java)|
+|Implementation|[Find Digits](https://www.hackerrank.com/challenges/find-digits)|Easy|25|[Solution.java](Algorithms/Implementation/Find%20Digits/Solution.java)|
 |Implementation|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)|Medium|20|[Solution.cpp](Algorithms/Implementation/Extra%20Long%20Factorials/Solution.cpp)|
 |Implementation|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|Medium|25|[Solution.cpp](Algorithms/Implementation/The%20Time%20in%20Words/Solution.cpp)|
 |Strings|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)|Easy|10|[Solution.java](Algorithms/Strings/Super%20Reduced%20String/Solution.java)|
@@ -192,6 +193,7 @@ platform tests of a given problem.
 |Recursion|[Prefix Compression](https://www.hackerrank.com/challenges/prefix-compression)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/Prefix%20Compression/Solution.hs)|
 |Recursion|[String Reductions](https://www.hackerrank.com/challenges/string-reductions)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/String%20Reductions/Solution.hs)|
 |Recursion|[Sequence full of colors](https://www.hackerrank.com/challenges/sequence-full-of-colors)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/Sequence%20full%20of%20colors/Solution.hs)|
+|Recursion|[Filter Elements](https://www.hackerrank.com/challenges/filter-elements)|Easy|10|[Solution.hs](Functional%20Programming/Recursion/Filter%20Elements/Solution.hs)|
 |Recursion|[Super Digit](https://www.hackerrank.com/challenges/super-digit)|Medium|20|[Solution.hs](Functional%20Programming/Recursion/Super%20Digit/Solution.hs)|
 |Functional Structures|[Swap Nodes](https://www.hackerrank.com/challenges/swap-nodes)|Medium|40|[Solution.hs](Functional%20Programming/Functional%20Structures/Swap%20Nodes/Solution.hs)|
 |Functional Structures|[Valid BST](https://www.hackerrank.com/challenges/valid-bst)|Medium|20|[Solution.hs](Functional%20Programming/Functional%20Structures/Valid%20BST/Solution.hs)|
