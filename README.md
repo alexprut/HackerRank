@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-271-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-272-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -201,7 +201,7 @@ platform tests of a given problem.
 |Ad Hoc|[Rotate String](https://www.hackerrank.com/challenges/rotate-string)|Easy|20|[Solution.hs](Functional%20Programming/Ad%20Hoc/Rotate%20String/Solution.hs)|
 |Ad Hoc|[Remove Duplicates](https://www.hackerrank.com/challenges/remove-duplicates)|Easy|10|[Solution.hs](Functional%20Programming/Ad%20Hoc/Remove%20Duplicates/Solution.hs)|
 |Ad Hoc|[Common Divisors](https://www.hackerrank.com/challenges/common-divisors)|Easy|20|[Solution.hs](Functional%20Programming/Ad%20Hoc/Common%20Divisors/Solution.hs)|
-
+|Ad Hoc|[Subset Sum](https://www.hackerrank.com/challenges/subset-sum)|Easy|20|[Solution.hs](Functional%20Programming/Ad%20Hoc/Subset%20Sum/Solution.hs)|
 
 ## Java
 |Subdomain|Challenge|Difficulty|Score|Solution|
