@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-273-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-275-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -112,8 +112,10 @@ platform tests of a given problem.
 |-|-|-|-|-|
 |Arrays|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)|Easy|10|[Solution.java](Data%20Structures/Arrays/Arrays%20-%20DS/Solution.java)|
 |Arrays|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array)|Easy|15|[Solution.cpp](Data%20Structures/Arrays/2D%20Array%20-%20DS/Solution.cpp)|
+|Arrays|[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)|Easy|15|[Solution.java](Data%20Structures/Arrays/Dynamic%20Array/Solution.java)|
 |Arrays|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)|Easy|20|[Solution.java](Data%20Structures/Arrays/Left%20Rotation/Solution.java)|
 |Arrays|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)|Medium|25|[Solution.cpp](Data%20Structures/Arrays/Sparse%20Arrays/Solution.cpp)|
+|Arrays|[Array Manipulation](https://www.hackerrank.com/challenges/crush)|Hard|60|[Solution.java](Data%20Structures/Arrays/Array%20Manipulation/Solution.java)|
 |Linked Lists|[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)|Easy|5|[Solution.java](Data%20Structures/Linked%20Lists/Print%20the%20Elements%20of%20a%20Linked%20List/Solution.java)|
 |Linked Lists|[Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Tail%20of%20a%20Linked%20List/Solution.cpp)|
 |Linked Lists|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list)|Easy|5|[Solution.cpp](Data%20Structures/Linked%20Lists/Insert%20a%20node%20at%20the%20head%20of%20a%20linked%20list/Solution.cpp)|
