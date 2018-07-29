@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-275-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-276-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -135,6 +135,7 @@ platform tests of a given problem.
 |Trees|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Postorder%20Traversal/Solution.java)|
 |Trees|[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Inorder%20Traversal/Solution.java)|
 |Trees|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree)|Easy|10|[Solution.java](Data%20Structures/Trees/Tree:%20Height%20of%20a%20Binary%20Tree/Solution.java)|
+|Trees|[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view)|Easy|20|[Solution.java](Data%20Structures/Trees/Tree%20:%20Top%20View/Solution.java)|
 |Trees|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal)|Easy|20|[Solution.java](Data%20Structures/Trees/Tree:%20Level%20Order%20Traversal/Solution.java)|
 |Trees|[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion)|Easy|20|[Solution.java](Data%20Structures/Trees/Binary%20Search%20Tree%20:%20Insertion/Solution.java)|
 |Trees|[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)|Medium|20|[Solution.java](Data%20Structures/Trees/Tree:%20Huffman%20Decoding%20/Solution.java)|
