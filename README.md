@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-279-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-288-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -20,6 +20,7 @@ platform tests of a given problem.
 1. [C++](#c++)
 1. [Distributed Systems](#distributed-systems)
 1. [Mathematics](#mathematics)
+1. [Artificial Intelligence](#artificial-intelligence)
 
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -332,6 +333,19 @@ platform tests of a given problem.
 |Linear Algebra Foundations|[Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#2%20-%20Matrix%20Subtraction/Solution.txt)|
 |Linear Algebra Foundations|[Linear Algebra Foundations #3- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#3-%20Matrix%20Multiplication/Solution.txt)|
 |Linear Algebra Foundations|[Linear Algebra Foundations #4- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#4-%20Matrix%20Multiplication/Solution.txt)|
+
+##  Artificial Intelligence
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Probability & Statistics - Foundations|[Day 2: Basic Probability Puzzles #1](https://www.hackerrank.com/challenges/basic-probability-puzzles-1)|Easy|2|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Day%202:%20Basic%20Probability%20Puzzles%20#1%20/Solution.txt)|
+|Probability & Statistics - Foundations|[Day 2: Basic Probability Puzzles #2](https://www.hackerrank.com/challenges/basic-probability-puzzles-2)|Easy|2|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Day%202:%20Basic%20Probability%20Puzzles%20#2/Solution.txt)|
+|Probability & Statistics - Foundations|[Day 2: Basic Probability Puzzles #3](https://www.hackerrank.com/challenges/basic-probability-puzzles-3)|Easy|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Day%202:%20Basic%20Probability%20Puzzles%20#3/Solution.txt)|
+|Probability & Statistics - Foundations|[Day 2: Basic Probability Puzzles #4](https://www.hackerrank.com/challenges/basic-probability-puzzles-4)|Easy|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Day%202:%20Basic%20Probability%20Puzzles%20#4/Solution.txt)|
+|Probability & Statistics - Foundations|[Day 3: Basic Probability Puzzles #5](https://www.hackerrank.com/challenges/basic-probability-puzzles-5)|Medium|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Day%203:%20Basic%20Probability%20Puzzles%20#5/Solution.txt)|
+|Probability & Statistics - Foundations|[Day 3: Basic Probability Puzzles #6](https://www.hackerrank.com/challenges/basic-probability-puzzles-6)|Medium|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Day%203:%20Basic%20Probability%20Puzzles%20#6/Solution.txt)|
+|Probability & Statistics - Foundations|[Day 3: Basic Probability Puzzles #8](https://www.hackerrank.com/challenges/basic-probability-puzzles-8)|Hard|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Day%203:%20Basic%20Probability%20Puzzles%20#8/Solution.txt)|
+|Probability & Statistics - Foundations|[Basic Probability Puzzles #9](https://www.hackerrank.com/challenges/basic-probability-puzzles-9)|Medium|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Basic%20Probability%20Puzzles%20#9/Solution.txt)|
+|Probability & Statistics - Foundations|[Basic Probability Puzzles #10](https://www.hackerrank.com/challenges/basic-probability-puzzles-10)|Medium|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Basic%20Probability%20Puzzles%20#10/Solution.txt)|
 
 License
 =======
