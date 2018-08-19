@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-289-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-297-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -230,7 +230,15 @@ platform tests of a given problem.
 |Introduction|[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)|Easy|15|[Solution.java](Java/Introduction/Java%20Currency%20Formatter/Solution.java)|
 |Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|Easy|5|[Solution.java](Java/Strings/Java%20Strings%20Introduction/Solution.java)|
 |Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution.java](Java/Strings/Java%20Substring/Solution.java)|
+|Strings|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare)|Easy|10|[Solution.java](Java/Strings/Java%20Substring%20Comparisons/Solution.java)|
 |Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)|Easy|10|[Solution.java](Java/Strings/Java%20String%20Reverse/Solution.java)|
+|Strings|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)|Easy|10|[Solution.java](Java/Strings/Java%20Anagrams/Solution.java)|
+|Strings|[Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)|Easy|15|[Solution.java](Java/Strings/Java%20String%20Tokens/Solution.java)|
+|Strings|[Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)|Easy|20|[Solution.java](Java/Strings/Pattern%20Syntax%20Checker/Solution.java)|
+|Strings|[Java Regex](https://www.hackerrank.com/challenges/java-regex)|Medium|25|[Solution.java](Java/Strings/Java%20Regex/Solution.java)|
+|Strings|[Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word)|Medium|25|[Solution.java](Java/Strings/Java%20Regex%202%20-%20Duplicate%20Words/Solution.java)|
+|Strings|[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker)|Easy|20|[Solution.java](Java/Strings/Valid%20Username%20Regular%20Expression/Solution.java)|
+|Strings|[Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor)|Medium|20|[Solution.java](Java/Strings/Tag%20Content%20Extractor/Solution.java)|
 |BigNumber|[Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger)|Easy|10|[Solution.java](Java/BigNumber/Java%20BigInteger/Solution.java)|
 |BigNumber|[Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)|Medium|20|[Solution.java](Java/BigNumber/Java%20BigDecimal/Solution.java)|
 |BigNumber|[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test)|Easy|20|[Solution.java](Java/BigNumber/Java%20Primality%20Test/Solution.java)|
