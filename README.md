@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-297-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-301-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -246,6 +246,7 @@ platform tests of a given problem.
 |Data Structures|[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)|Easy|10|[Solution.java](Java/Data%20Structures/Java%202D%20Array/Solution.java)|
 |Data Structures|[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Subarray/Solution.java)|
 |Data Structures|[Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Arraylist/Solution.java)|
+|Data Structures|[Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array)|Medium|25|[Solution](Java/Data%20Structures/Java%201D%20Array%20(Part%202)/Solution.)|
 |Data Structures|[Java List](https://www.hackerrank.com/challenges/java-list)|Easy|15|[Solution.java](Java/Data%20Structures/Java%20List/Solution.java)|
 |Data Structures|[Java Map](https://www.hackerrank.com/challenges/phone-book)|Easy|10|[Solution.java](Java/Data%20Structures/Java%20Map/Solution.java)|
 |Data Structures|[Java Stack](https://www.hackerrank.com/challenges/java-stack)|Medium|20|[Solution.java](Java/Data%20Structures/Java%20Stack/Solution.java)|
@@ -269,12 +270,15 @@ platform tests of a given problem.
 |Advanced|[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)|Easy|15|[Solution.java](Java/Advanced/Java%20Varargs%20-%20Simple%20Addition/Solution.java)|
 |Advanced|[Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes)|Easy|15|[Solution.java](Java/Advanced/Java%20Reflection%20-%20Attributes/Solution.java)|
 |Advanced|[Can You Access?](https://www.hackerrank.com/challenges/can-you-access)|Medium|15|[Solution.java](Java/Advanced/Can%20You%20Access?/Solution.java)|
+|Advanced|[Prime Checker](https://www.hackerrank.com/challenges/prime-checker)|Medium|25|[Solution](Java/Advanced/Prime%20Checker/Solution.)|
 |Advanced|[Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)|Easy|15|[Solution.java](Java/Advanced/Java%20Factory%20Pattern/Solution.java)|
 |Advanced|[Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)|Easy|15|[Solution.java](Java/Advanced/Java%20Singleton%20Pattern/Solution.java)|
 |Advanced|[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern)|Medium|40|[Solution.java](Java/Advanced/Java%20Visitor%20Pattern/Solution.java)|
 |Advanced|[Java Annotations](https://www.hackerrank.com/challenges/java-annotations)|Medium|25|[Solution.java](Java/Advanced/Java%20Annotations/Solution.java)|
 |Advanced|[Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance)|Easy|20|[Solution.java](Java/Advanced/Covariant%20Return%20Types/Solution.java)|
 |Advanced|[Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)|Medium|30|[Solution.java](Java/Advanced/Java%20Lambda%20Expressions/Solution.java)|
+|Advanced|[Java MD5](https://www.hackerrank.com/challenges/java-md5)|Medium|30|[Solution](Java/Advanced/Java%20MD5/Solution.)|
+|Advanced|[Java SHA-256](https://www.hackerrank.com/challenges/sha-256)|Medium|30|[Solution](Java/Advanced/Java%20SHA-256/Solution.)|
 
 ##  C++
 |Subdomain|Challenge|Difficulty|Score|Solution|
