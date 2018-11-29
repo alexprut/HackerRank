@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-302-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-323-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -35,6 +35,7 @@ platform tests of a given problem.
 |Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Mini-Max%20Sum/Solution.cpp)|
 |Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|Easy|10|[Solution.java](Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)|
 |Warmup|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|Easy|15|[Solution.java](Algorithms/Warmup/Time%20Conversion/Solution.java)|
+
 |Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading)|Easy|10|[Solution.java](Algorithms/Implementation/Grading%20Students/Solution.java)|
 |Implementation|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)|Easy|10|[Solution.cpp](Algorithms/Implementation/Apple%20and%20Orange/Solution.cpp)|
 |Implementation|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo)|Easy|10|[Solution.cpp](Algorithms/Implementation/Kangaroo/Solution.cpp)|
@@ -48,14 +49,35 @@ platform tests of a given problem.
 |Implementation|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book)|Easy|10|[Solution.java](Algorithms/Implementation/Drawing%20Book%20/Solution.java)|
 |Implementation|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)|Easy|15|[Solution.java](Algorithms/Implementation/Counting%20Valleys/Solution.java)|
 |Implementation|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)|Easy|15|[Solution.java](Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java)|
+|Implementation|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)|Easy|20|[Solution.java](Algorithms/Implementation/Picking%20Numbers/Solution.java)|
 |Implementation|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)|Easy|15|[Solution.java](Algorithms/Implementation/The%20Hurdle%20Race/Solution.java)|
 |Implementation|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)|Easy|20|[Solution.java](Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.java)|
 |Implementation|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)|Easy|20|[Solution.java](Algorithms/Implementation/Utopian%20Tree/Solution.java)|
 |Implementation|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor)|Easy|20|[Solution.java](Algorithms/Implementation/Angry%20Professor/Solution.java)|
 |Implementation|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)|Easy|15|[Solution.java](Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.java)|
+|Implementation|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)|Easy|15|[Solution.java](Algorithms/Implementation/Viral%20Advertising/Solution.java)|
+|Implementation|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)|Easy|15|[Solution.java](Algorithms/Implementation/Save%20the%20Prisoner!/Solution.java)|
+|Implementation|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)|Easy|20|[Solution.java](Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java)|
 |Implementation|[Find Digits](https://www.hackerrank.com/challenges/find-digits)|Easy|25|[Solution.java](Algorithms/Implementation/Find%20Digits/Solution.java)|
 |Implementation|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)|Medium|20|[Solution.cpp](Algorithms/Implementation/Extra%20Long%20Factorials/Solution.cpp)|
+|Implementation|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)|Easy|20|[Solution.java](Algorithms/Implementation/Sherlock%20and%20Squares/Solution.java)|
+|Implementation|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)|Easy|25|[Solution.java](Algorithms/Implementation/Cut%20the%20sticks/Solution.java)|
+|Implementation|[Repeated String](https://www.hackerrank.com/challenges/repeated-string)|Easy|20|[Solution.java](Algorithms/Implementation/Repeated%20String/Solution.java)|
+|Implementation|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)|Easy|20|[Solution.java](Algorithms/Implementation/Jumping%20on%20the%20Clouds/Solution.java)|
+|Implementation|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)|Easy|20|[Solution.java](Algorithms/Implementation/Equalize%20the%20Array/Solution.java)|
+|Implementation|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)|Medium|30|[Solution.java](Algorithms/Implementation/Queen's%20Attack%20II/Solution.java)|
+|Implementation|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)|Easy|25|[Solution.java](Algorithms/Implementation/Taum%20and%20B'day/Solution.java)|
+|Implementation|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)|Easy|20|[Solution.java](Algorithms/Implementation/Beautiful%20Triplets/Solution.java)|
+|Implementation|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)|Easy|20|[Solution.java](Algorithms/Implementation/Minimum%20Distances/Solution.java)|
+|Implementation|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale)|Easy|20|[Solution.java](Algorithms/Implementation/Halloween%20Sale/Solution.java)|
 |Implementation|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|Medium|25|[Solution.cpp](Algorithms/Implementation/The%20Time%20in%20Words/Solution.cpp)|
+|Implementation|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)|Easy|25|[Solution.java](Algorithms/Implementation/Chocolate%20Feast%20/Solution.java)|
+|Implementation|[Service Lane](https://www.hackerrank.com/challenges/service-lane)|Easy|20|[Solution.java](Algorithms/Implementation/Service%20Lane/Solution.java)|
+|Implementation|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)|Easy|25|[Solution.java](Algorithms/Implementation/Lisa's%20Workbook/Solution.java)|
+|Implementation|[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)|Easy|25|[Solution.java](Algorithms/Implementation/Flatland%20Space%20Stations/Solution.java)|
+|Implementation|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations)|Easy|25|[Solution.java](Algorithms/Implementation/Fair%20Rations/Solution.java)|
+|Implementation|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map)|Easy|30|[Solution.java](Algorithms/Implementation/Cavity%20Map/Solution.java)|
+|Implementation|[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)|Easy|30|[Solution.java](Algorithms/Implementation/Happy%20Ladybugs/Solution.java)|
 |Strings|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)|Easy|10|[Solution.java](Algorithms/Strings/Super%20Reduced%20String/Solution.java)|
 |Strings|[CamelCase](https://www.hackerrank.com/challenges/camelcase)|Easy|15|[Solution.java](Algorithms/Strings/CamelCase/Solution.java)|
 |Strings|[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)|Easy|15|[Solution.java](Algorithms/Strings/Mars%20Exploration/Solution.java)|
