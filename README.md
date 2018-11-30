@@ -35,7 +35,6 @@ platform tests of a given problem.
 |Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|Easy|10|[Solution.cpp](Algorithms/Warmup/Mini-Max%20Sum/Solution.cpp)|
 |Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|Easy|10|[Solution.java](Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.java)|
 |Warmup|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|Easy|15|[Solution.java](Algorithms/Warmup/Time%20Conversion/Solution.java)|
-
 |Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading)|Easy|10|[Solution.java](Algorithms/Implementation/Grading%20Students/Solution.java)|
 |Implementation|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)|Easy|10|[Solution.cpp](Algorithms/Implementation/Apple%20and%20Orange/Solution.cpp)|
 |Implementation|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo)|Easy|10|[Solution.cpp](Algorithms/Implementation/Kangaroo/Solution.cpp)|
