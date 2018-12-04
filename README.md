@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-333-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-337-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -133,12 +133,16 @@ platform tests of a given problem.
 |Greedy|[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)|Easy|40|[Solution.java](Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java)|
 |Greedy|[Goodland Electricity](https://www.hackerrank.com/challenges/pylons)|Medium|40|[Solution.java](Algorithms/Greedy/Goodland%20Electricity/Solution.java)|
 |Dynamic Programming|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard|60|[Solution.cpp](Algorithms/Dynamic%20Programming/The%20Coin%20Change%20Problem/Solution.cpp)|
+|Dynamic Programming|[Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Sherlock%20and%20Cost/Solution.java)|
 |Dynamic Programming|[Candies](https://www.hackerrank.com/challenges/candies)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Candies/Solution.java)|
 |Dynamic Programming|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium|45|[Solution.java](Algorithms/Dynamic%20Programming/Fibonacci%20Modified/Solution.java)|
+|Dynamic Programming|[Abbreviation](https://www.hackerrank.com/challenges/abbr)|Medium|40|[Solution.java](Algorithms/Dynamic%20Programming/Abbreviation/Solution.java)|
 |Dynamic Programming|[The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)|Medium|50|[Solution.cpp](Algorithms/Dynamic%20Programming/The%20Maximum%20Subarray/Solution.cpp)|
 |Dynamic Programming|[Substring Diff](https://www.hackerrank.com/challenges/substring-diff)|Medium|50/60|[Solution.java](Algorithms/Dynamic%20Programming/Substring%20Diff/Solution.java)|
 |Dynamic Programming|[Stock Maximize](https://www.hackerrank.com/challenges/stockmax)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Stock%20Maximize/Solution.java)|
 |Dynamic Programming|[Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)|Medium|60|[Solution.java](Algorithms/Dynamic%20Programming/Knapsack/Solution.java)|
+|Dynamic Programming|[Bricks Game](https://www.hackerrank.com/challenges/play-game)|Medium|55|[Solution.java](Algorithms/Dynamic%20Programming/Bricks%20Game/Solution.java)|
+|Dynamic Programming|[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)|Medium|55|[Solution.java](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/Solution.java)|
 |Constructive Algorithms|[Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)|Medium|30|[Solution.java](Algorithms/Constructive%20Algorithms/Flipping%20the%20Matrix/Solution.java)|
 |Recursion|[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum)|Medium|20|[Solution.java](Algorithms/Recursion/The%20Power%20Sum/Solution.java)|
 |Recursion|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum)|Medium|30|[Solution.java](Algorithms/Recursion/Recursive%20Digit%20Sum/Solution.java)|
