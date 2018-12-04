@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-337-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-338-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -108,6 +108,7 @@ platform tests of a given problem.
 |Search|[Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)|Medium|50|[Solution.java](Algorithms/Search/Connected%20Cells%20in%20a%20Grid/Solution.java)|
 |Search|[Count Luck](https://www.hackerrank.com/challenges/count-luck)|Medium|50|[Solution.java](Algorithms/Search/Count%20Luck/Solution.java)|
 |Search|[Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree)|Medium|50|[Solution.java](Algorithms/Search/Cut%20the%20Tree/Solution.java)|
+|Search|[Red Knight's Shortest Path](https://www.hackerrank.com/challenges/red-knights-shortest-path)|Medium|60|[Solution.java](Algorithms/Search/Red%20Knight's%20Shortest%20Path/Solution.java)|
 |Graph Theory|[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)|Medium|30|[Solution.java](Algorithms/Graph%20Theory/Roads%20and%20Libraries/Solution.java)|
 |Graph Theory|[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/Solution.java)|
 |Graph Theory|[Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)|Medium|55|[Solution.java](Algorithms/Graph%20Theory/Breadth%20First%20Search%20Shortest%20Reach/Solution.java)|
