@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-325-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-333-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -120,10 +120,18 @@ platform tests of a given problem.
 |Graph Theory|[Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights)|Hard|75|[Solution.java](Algorithms/Graph%20Theory/Floyd%20:%20City%20of%20Blinding%20Lights/Solution.java)|
 |Greedy|[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)|Easy|15|[Solution.java](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java)|
 |Greedy|[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)|Easy|15|[Solution.cpp](Algorithms/Greedy/Marc's%20Cakewalk/Solution.cpp)|
+|Greedy|[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)|Easy|20|[Solution.java](Algorithms/Greedy/Grid%20Challenge/Solution.java)|
 |Greedy|[Luck Balance](https://www.hackerrank.com/challenges/luck-balance)|Easy|20|[Solution.cpp](Algorithms/Greedy/Luck%20Balance/Solution.cpp)|
 |Greedy|[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)|Easy|20|[Solution.java](Algorithms/Greedy/Maximum%20Perimeter%20Triangle/Solution.java)|
+|Greedy|[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)|Easy|30|[Solution.java](Algorithms/Greedy/Beautiful%20Pairs/Solution.java)|
+|Greedy|[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)|Easy|30|[Solution.java](Algorithms/Greedy/Sherlock%20and%20The%20Beast/Solution.java)|
+|Greedy|[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)|Easy|30|[Solution.java](Algorithms/Greedy/Priyanka%20and%20Toys/Solution.java)|
 |Greedy|[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)|Easy|35|[Solution.java](Algorithms/Greedy/Mark%20and%20Toys/Solution.java)|
+|Greedy|[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)|Medium|35|[Solution.java](Algorithms/Greedy/Greedy%20Florist/Solution.java)|
 |Greedy|[Max Min](https://www.hackerrank.com/challenges/angry-children)|Medium|35|[Solution.java](Algorithms/Greedy/Max%20Min/Solution.java)|
+|Greedy|[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)|Easy|40|[Solution.java](Algorithms/Greedy/Jim%20and%20the%20Orders/Solution.java)|
+|Greedy|[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)|Easy|40|[Solution.java](Algorithms/Greedy/Permuting%20Two%20Arrays/Solution.java)|
+|Greedy|[Goodland Electricity](https://www.hackerrank.com/challenges/pylons)|Medium|40|[Solution.java](Algorithms/Greedy/Goodland%20Electricity/Solution.java)|
 |Dynamic Programming|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)|Hard|60|[Solution.cpp](Algorithms/Dynamic%20Programming/The%20Coin%20Change%20Problem/Solution.cpp)|
 |Dynamic Programming|[Candies](https://www.hackerrank.com/challenges/candies)|Medium|50|[Solution.java](Algorithms/Dynamic%20Programming/Candies/Solution.java)|
 |Dynamic Programming|[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)|Medium|45|[Solution.java](Algorithms/Dynamic%20Programming/Fibonacci%20Modified/Solution.java)|
