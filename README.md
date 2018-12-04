@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-323-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-325-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -109,6 +109,7 @@ platform tests of a given problem.
 |Search|[Count Luck](https://www.hackerrank.com/challenges/count-luck)|Medium|50|[Solution.java](Algorithms/Search/Count%20Luck/Solution.java)|
 |Search|[Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree)|Medium|50|[Solution.java](Algorithms/Search/Cut%20the%20Tree/Solution.java)|
 |Graph Theory|[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)|Medium|30|[Solution.java](Algorithms/Graph%20Theory/Roads%20and%20Libraries/Solution.java)|
+|Graph Theory|[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Journey%20to%20the%20Moon/Solution.java)|
 |Graph Theory|[Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)|Medium|55|[Solution.java](Algorithms/Graph%20Theory/Breadth%20First%20Search%20Shortest%20Reach/Solution.java)|
 |Graph Theory|[Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Kruskal%20MST%20Really%20Special%20Subtree/Solution.java)|
 |Graph Theory|[Even Tree](https://www.hackerrank.com/challenges/even-tree)|Medium|50|[Solution.java](Algorithms/Graph%20Theory/Even%20Tree/Solution.java)|
@@ -116,6 +117,7 @@ platform tests of a given problem.
 |Graph Theory|[Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach)|Hard|60|[Solution.java](Algorithms/Graph%20Theory/Dijkstra:%20Shortest%20Reach%202/Solution.java)|
 |Graph Theory|[The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree)|Medium|50|[Solution.cpp](Algorithms/Graph%20Theory/The%20Story%20of%20a%20Tree/Solution.cpp)|
 |Graph Theory|[Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)|Medium|60|[Solution.java](Algorithms/Graph%20Theory/Prim's%20MST%20Special%20Subtree/Solution.java)|
+|Graph Theory|[Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights)|Hard|75|[Solution.java](Algorithms/Graph%20Theory/Floyd%20:%20City%20of%20Blinding%20Lights/Solution.java)|
 |Greedy|[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)|Easy|15|[Solution.java](Algorithms/Greedy/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java)|
 |Greedy|[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)|Easy|15|[Solution.cpp](Algorithms/Greedy/Marc's%20Cakewalk/Solution.cpp)|
 |Greedy|[Luck Balance](https://www.hackerrank.com/challenges/luck-balance)|Easy|20|[Solution.cpp](Algorithms/Greedy/Luck%20Balance/Solution.cpp)|
