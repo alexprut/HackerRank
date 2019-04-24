@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-342-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-359-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -47,6 +47,7 @@ platform tests of a given problem.
 |Implementation|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)|Easy|10|[Solution.java](Algorithms/Implementation/Sock%20Merchant/Solution.java)|
 |Implementation|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book)|Easy|10|[Solution.java](Algorithms/Implementation/Drawing%20Book%20/Solution.java)|
 |Implementation|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)|Easy|15|[Solution.java](Algorithms/Implementation/Counting%20Valleys/Solution.java)|
+|Implementation|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)|Easy|15|[Solution.java](Algorithms/Implementation/Electronics%20Shop/Solution.java)|
 |Implementation|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)|Easy|15|[Solution.java](Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.java)|
 |Implementation|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)|Easy|20|[Solution.java](Algorithms/Implementation/Picking%20Numbers/Solution.java)|
 |Implementation|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)|Easy|15|[Solution.java](Algorithms/Implementation/The%20Hurdle%20Race/Solution.java)|
@@ -57,8 +58,11 @@ platform tests of a given problem.
 |Implementation|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)|Easy|15|[Solution.java](Algorithms/Implementation/Viral%20Advertising/Solution.java)|
 |Implementation|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)|Easy|15|[Solution.java](Algorithms/Implementation/Save%20the%20Prisoner!/Solution.java)|
 |Implementation|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)|Easy|20|[Solution.java](Algorithms/Implementation/Circular%20Array%20Rotation/Solution.java)|
+|Implementation|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)|Easy|20|[Solution.java](Algorithms/Implementation/Sequence%20Equation/Solution.java)|
+|Implementation|[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)|Easy|15|[Solution.java](Algorithms/Implementation/Jumping%20on%20the%20Clouds:%20Revisited/Solution.java)|
 |Implementation|[Find Digits](https://www.hackerrank.com/challenges/find-digits)|Easy|25|[Solution.java](Algorithms/Implementation/Find%20Digits/Solution.java)|
 |Implementation|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)|Medium|20|[Solution.cpp](Algorithms/Implementation/Extra%20Long%20Factorials/Solution.cpp)|
+|Implementation|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)|Easy|20|[Solution.java](Algorithms/Implementation/Append%20and%20Delete/Solution.java)|
 |Implementation|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)|Easy|20|[Solution.java](Algorithms/Implementation/Sherlock%20and%20Squares/Solution.java)|
 |Implementation|[Library Fine](https://www.hackerrank.com/challenges/library-fine)|Easy|15|[Solution.java](Algorithms/Implementation/Library%20Fine/Solution.java)|
 |Implementation|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)|Easy|25|[Solution.java](Algorithms/Implementation/Cut%20the%20sticks/Solution.java)|
@@ -83,13 +87,26 @@ platform tests of a given problem.
 |Implementation|[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)|Easy|30|[Solution.java](Algorithms/Implementation/Happy%20Ladybugs/Solution.java)|
 |Strings|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)|Easy|10|[Solution.java](Algorithms/Strings/Super%20Reduced%20String/Solution.java)|
 |Strings|[CamelCase](https://www.hackerrank.com/challenges/camelcase)|Easy|15|[Solution.java](Algorithms/Strings/CamelCase/Solution.java)|
+|Strings|[Strong Password](https://www.hackerrank.com/challenges/strong-password)|Easy|15|[Solution.java](Algorithms/Strings/Strong%20Password/Solution.java)|
+|Strings|[Two Characters](https://www.hackerrank.com/challenges/two-characters)|Easy|20|[Solution.java](Algorithms/Strings/Two%20Characters/Solution.java)|
+|Strings|[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)|Easy|15|[Solution.java](Algorithms/Strings/Caesar%20Cipher/Solution.java)|
 |Strings|[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)|Easy|15|[Solution.java](Algorithms/Strings/Mars%20Exploration/Solution.java)|
+|Strings|[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)|Easy|20|[Solution.java](Algorithms/Strings/HackerRank%20in%20a%20String!/Solution.java)|
 |Strings|[Pangrams](https://www.hackerrank.com/challenges/pangrams)|Easy|20|[Solution.java](Algorithms/Strings/Pangrams/Solution.java)|
+|Strings|[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)|Easy|20|[Solution.java](Algorithms/Strings/Separate%20the%20Numbers/Solution.java)|
 |Strings|[Funny String](https://www.hackerrank.com/challenges/funny-string)|Easy|25|[Solution.java](Algorithms/Strings/Funny%20String/Solution.java)|
+|Strings|[Gemstones](https://www.hackerrank.com/challenges/gem-stones)|Easy|20|[Solution.java](Algorithms/Strings/Gemstones/Solution.java)|
+|Strings|[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)|Easy|20|[Solution.java](Algorithms/Strings/Alternating%20Characters%20/Solution.java)|
+|Strings|[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)|Easy|20|[Solution.java](Algorithms/Strings/Beautiful%20Binary%20String/Solution.java)|
 |Strings|[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)|Easy|20|[Solution.java](Algorithms/Strings/The%20Love-Letter%20Mystery/Solution.java)|
+|Strings|[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)|Easy|25|[Solution.java](Algorithms/Strings/Palindrome%20Index/Solution.java)|
 |Strings|[Anagram](https://www.hackerrank.com/challenges/anagram)|Easy|25|[Solution.java](Algorithms/Strings/Anagram/Solution.java)|
 |Strings|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)|Easy|30|[Solution.java](Algorithms/Strings/Making%20Anagrams/Solution.java)|
+|Strings|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)|Easy|30|[Solution.java](Algorithms/Strings/Game%20of%20Thrones%20-%20I/Solution.java)|
 |Strings|[Two Strings](https://www.hackerrank.com/challenges/two-strings)|Easy|25|[Solution.java](Algorithms/Strings/Two%20Strings/Solution.java)|
+|Strings|[String Construction](https://www.hackerrank.com/challenges/string-construction)|Easy|25|[Solution.java](Algorithms/Strings/String%20Construction%20/Solution.java)|
+|Strings|[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)|Medium|35|[Solution.java](Algorithms/Strings/Sherlock%20and%20the%20Valid%20String/Solution.java)|
+|Strings|[Common Child](https://www.hackerrank.com/challenges/common-child)|Medium|60|[Solution.java](Algorithms/Strings/Common%20Child/Solution.java)|
 |Sorting|[Big Sorting](https://www.hackerrank.com/challenges/big-sorting)|Easy|20|[Solution.java](Algorithms/Sorting/Big%20Sorting/Solution.java)|
 |Sorting|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)|Easy|30|[Solution.java](Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.java)|
 |Sorting|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)|Easy|30|[Solution.cpp](Algorithms/Sorting/Insertion%20Sort%20-%20Part%201/Solution.cpp)|
