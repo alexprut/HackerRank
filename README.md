@@ -6,8 +6,24 @@
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
 </div>
+<br>
+<br>
 
-#### Disclaimer
+### Disclaimer
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/alexprut/Algo">
+        <img src="https://github.com/alexprut/Algo/raw/master/src/main/resources/logo.png" width="80" height="auto"/>
+      </a>
+    </td>
+    <td>
+      Most of the problems are solved by using the <a href="https://github.com/alexprut/Algo">Algo</a> library.
+    </td> 
+  </tr>
+</table>
+
 The problem solutions and implementations are entirely provided by [Alex Prut](https://www.hackerrank.com/alexprut).
 The code is not refactored, no coding style is followed, the only purpose of the written code is to pass all the
 platform tests of a given problem.
