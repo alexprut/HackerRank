@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-359-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-366-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -34,6 +34,7 @@ platform tests of a given problem.
 1. [Functional Programming](#functional-programming)
 1. [Java](#java)
 1. [C++](#c++)
+1. [Python](#python)
 1. [Distributed Systems](#distributed-systems)
 1. [Mathematics](#mathematics)
 1. [Artificial Intelligence](#artificial-intelligence)
@@ -386,6 +387,17 @@ platform tests of a given problem.
 |Other Concepts|[C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates)|Easy|20|[Solution.cpp](C++/Other%20Concepts/C++%20Class%20Templates/Solution.cpp)|
 |Other Concepts|[Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution)|Easy|25|[Solution.cpp](C++/Other%20Concepts/Preprocessor%20Solution/Solution.cpp)|
 |Other Concepts|[Overload Operators](https://www.hackerrank.com/challenges/overload-operators)|Easy|30|[Solution.java](C++/Other%20Concepts/Overload%20Operators/Solution.java)|
+
+##  Python
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Introduction|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)|Easy|5|[Solution.py](Python/Introduction/Say%20"Hello,%20World!"%20With%20Python/Solution.py)|
+|Introduction|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else)|Easy|10|[Solution.py](Python/Introduction/Python%20If-Else/Solution.py)|
+|Introduction|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators)|Easy|10|[Solution.py](Python/Introduction/Arithmetic%20Operators/Solution.py)|
+|Introduction|[Python: Division](https://www.hackerrank.com/challenges/python-division)|Easy|10|[Solution.py](Python/Introduction/Python:%20Division/Solution.py)|
+|Introduction|[Loops](https://www.hackerrank.com/challenges/python-loops)|Easy|10|[Solution.py](Python/Introduction/Loops/Solution.py)|
+|Introduction|[Write a function](https://www.hackerrank.com/challenges/write-a-function)|Medium|10|[Solution.py](Python/Introduction/Write%20a%20function/Solution.py)|
+|Introduction|[Print Function](https://www.hackerrank.com/challenges/python-print)|Easy|20|[Solution.py](Python/Introduction/Print%20Function/Solution.py)|
 
 ##  Distributed Systems
 |Subdomain|Challenge|Difficulty|Score|Solution|
