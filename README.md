@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-366-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-408-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -38,6 +38,7 @@ platform tests of a given problem.
 1. [Distributed Systems](#distributed-systems)
 1. [Mathematics](#mathematics)
 1. [Artificial Intelligence](#artificial-intelligence)
+1. [Linux Shell](#linux-shell)
 
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -445,6 +446,52 @@ platform tests of a given problem.
 |Probability & Statistics - Foundations|[Day 3: Basic Probability Puzzles #8](https://www.hackerrank.com/challenges/basic-probability-puzzles-8)|Hard|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Day%203:%20Basic%20Probability%20Puzzles%20#8/Solution.txt)|
 |Probability & Statistics - Foundations|[Basic Probability Puzzles #9](https://www.hackerrank.com/challenges/basic-probability-puzzles-9)|Medium|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Basic%20Probability%20Puzzles%20#9/Solution.txt)|
 |Probability & Statistics - Foundations|[Basic Probability Puzzles #10](https://www.hackerrank.com/challenges/basic-probability-puzzles-10)|Medium|5|[Solution.txt](Artificial%20Intelligence/Probability%20&%20Statistics%20-%20Foundations/Basic%20Probability%20Puzzles%20#10/Solution.txt)|
+
+##  Linux Shell
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Bash|[Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo)|Easy|1|[Solution.txt](Linux%20Shell/Bash/Let's%20Echo/Solution.txt)|
+|Bash|[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping)|Easy|2|[Solution.txt](Linux%20Shell/Bash/Looping%20and%20Skipping/Solution.txt)|
+|Bash|[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo)|Easy|1|[Solution.txt](Linux%20Shell/Bash/A%20Personalized%20Echo/Solution.txt)|
+|Bash|[Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers)|Easy|2|[Solution.txt](Linux%20Shell/Bash/Looping%20with%20Numbers/Solution.txt)|
+|Bash|[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers)|Easy|2|[Solution.txt](Linux%20Shell/Bash/The%20World%20of%20Numbers/Solution.txt)|
+|Bash|[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers)|Easy|3|[Solution.txt](Linux%20Shell/Bash/Comparing%20Numbers/Solution.txt)|
+|Bash|[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals)|Easy|3|[Solution.txt](Linux%20Shell/Bash/Getting%20started%20with%20conditionals/Solution.txt)|
+|Text Processing|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#1/Solution.txt)|
+|Text Processing|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#2/Solution.txt)|
+|Text Processing|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#3/Solution.txt)|
+|Text Processing|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#4/Solution.txt)|
+|Text Processing|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#5/Solution.txt)|
+|Text Processing|[Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#6/Solution.txt)|
+|Text Processing|[Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#7/Solution.txt)|
+|Text Processing|[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#8/Solution.txt)|
+|Text Processing|[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Cut%20#9/Solution.txt)|
+|Text Processing|[Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1)|Easy|2|[Solution.txt](Linux%20Shell/Text%20Processing/Head%20of%20a%20Text%20File%20#1/Solution.txt)|
+|Text Processing|[Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2)|Easy|2|[Solution.txt](Linux%20Shell/Text%20Processing/Head%20of%20a%20Text%20File%20#2/Solution.txt)|
+|Text Processing|[Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file)|Easy|3|[Solution.txt](Linux%20Shell/Text%20Processing/Middle%20of%20a%20Text%20File/Solution.txt)|
+|Text Processing|[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1)|Easy|2|[Solution.txt](Linux%20Shell/Text%20Processing/Tail%20of%20a%20Text%20File%20#1/Solution.txt)|
+|Text Processing|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2)|Easy|2|[Solution.txt](Linux%20Shell/Text%20Processing/Tail%20of%20a%20Text%20File%20#2/Solution.txt)|
+|Text Processing|['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/'Tr'%20Command%20#1/Solution.txt)|
+|Text Processing|['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/'Tr'%20Command%20#2/Solution.txt)|
+|Text Processing|['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/'Tr'%20Command%20#3/Solution.txt)|
+|Text Processing|[Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Sort%20Command%20#1/Solution.txt)|
+|Text Processing|[Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Sort%20Command%20#2/Solution.txt)|
+|Text Processing|[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Sort%20Command%20#3/Solution.txt)|
+|Text Processing|[Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Sort%20Command%20#4/Solution.txt)|
+|Text Processing|[Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/Sort%20Command%20#5/Solution.txt)|
+|Text Processing|['Sort' command #6](https://www.hackerrank.com/challenges/text-processing-sort-6)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/'Sort'%20command%20#6/Solution.txt)|
+|Text Processing|['Sort' command #7](https://www.hackerrank.com/challenges/text-processing-sort-7)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/'Sort'%20command%20#7/Solution.txt)|
+|Text Processing|['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/'Uniq'%20Command%20#1/Solution.txt)|
+|Text Processing|['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/'Uniq'%20Command%20#2/Solution.txt)|
+|Text Processing|['Uniq' command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4)|Easy|1|[Solution.txt](Linux%20Shell/Text%20Processing/'Uniq'%20command%20#4/Solution.txt)|
+|Grep Sed Awk|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1)|Medium|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Grep'%20#1/Solution.txt)|
+|Grep Sed Awk|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2)|Medium|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Grep'%20#2/Solution.txt)|
+|Grep Sed Awk|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3)|Medium|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Grep'%20#3/Solution.txt)|
+|Grep Sed Awk|['Grep' - A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4)|Easy|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Grep'%20-%20A/Solution.txt)|
+|Grep Sed Awk|['Grep' - B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5)|Easy|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Grep'%20-%20B/Solution.txt)|
+|Grep Sed Awk|['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1)|Medium|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Sed'%20command%20#1/Solution.txt)|
+|Grep Sed Awk|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2)|Medium|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Sed'%20command%20#2/Solution.txt)|
+|Grep Sed Awk|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3)|Easy|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Sed'%20command%20#3/Solution.txt)|
 
 License
 =======
