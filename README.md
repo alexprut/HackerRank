@@ -22,6 +22,26 @@
       Most of the problems are solved by using the <a href="https://github.com/alexprut/Algo">Algo</a> library.
     </td> 
   </tr>
+  <tr>
+      <td>
+        <a href="https://github.com/alexprut/LeetCode">
+          <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="80" height="auto"/>
+        </a>
+      </td>
+      <td>
+        Solutions to <a href="https://github.com/alexprut/LeetCode">LeetCode</a> problems.
+      </td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://github.com/alexprut/InterviewBit">
+            <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo-small.png" width="80" height="auto"/>
+          </a>
+        </td>
+        <td>
+          Solutions to <a href="https://github.com/alexprut/InterviewBit">InterviewBit</a> problems.
+        </td>
+      </tr>
 </table>
 
 The problem solutions and implementations are entirely provided by [Alex Prut](https://www.hackerrank.com/alexprut).
