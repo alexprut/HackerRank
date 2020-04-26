@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-409-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-423-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -59,6 +59,7 @@ platform tests of a given problem.
 1. [Mathematics](#mathematics)
 1. [Artificial Intelligence](#artificial-intelligence)
 1. [Linux Shell](#linux-shell)
+1. [Sql](#sql)
 
 ## Algorithms
 |Subdomain|Challenge|Difficulty|Score|Solution|
@@ -513,6 +514,24 @@ platform tests of a given problem.
 |Grep Sed Awk|['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1)|Medium|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Sed'%20command%20#1/Solution.txt)|
 |Grep Sed Awk|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2)|Medium|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Sed'%20command%20#2/Solution.txt)|
 |Grep Sed Awk|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3)|Easy|2|[Solution.txt](Linux%20Shell/Grep%20Sed%20Awk/'Sed'%20command%20#3/Solution.txt)|
+
+##  Sql
+|Subdomain|Challenge|Difficulty|Score|Solution|
+|-|-|-|-|-|
+|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)|Easy|10|[Solution.txt](Sql/Basic%20Select/Revising%20the%20Select%20Query%20I/Solution.txt)|
+|Basic Select|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)|Easy|10|[Solution.txt](Sql/Basic%20Select/Revising%20the%20Select%20Query%20II/Solution.txt)|
+|Basic Select|[Select All](https://www.hackerrank.com/challenges/select-all-sql)|Easy|10|[Solution.txt](Sql/Basic%20Select/Select%20All/Solution.txt)|
+|Basic Select|[Select By ID](https://www.hackerrank.com/challenges/select-by-id)|Easy|10|[Solution.txt](Sql/Basic%20Select/Select%20By%20ID/Solution.txt)|
+|Basic Select|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes)|Easy|10|[Solution.txt](Sql/Basic%20Select/Japanese%20Cities'%20Attributes/Solution.txt)|
+|Basic Select|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name)|Easy|10|[Solution.txt](Sql/Basic%20Select/Japanese%20Cities'%20Names/Solution.txt)|
+|Basic Select|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1)|Easy|15|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%201/Solution.txt)|
+|Basic Select|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%203/Solution.txt)|
+|Basic Select|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%204/Solution.txt)|
+|Basic Select|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)|Easy|30|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%205/Solution.txt)|
+|Basic Select|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%206/Solution.txt)|
+|Basic Select|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%207/Solution.txt)|
+|Basic Select|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)|Easy|15|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%208/Solution.txt)|
+|Basic Select|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%209/Solution.txt)|
 
 License
 =======
