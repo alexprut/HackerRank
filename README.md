@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-423-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-428-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -532,6 +532,11 @@ platform tests of a given problem.
 |Basic Select|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%207/Solution.txt)|
 |Basic Select|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)|Easy|15|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%208/Solution.txt)|
 |Basic Select|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%209/Solution.txt)|
+|Basic Select|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)|Easy|15|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%2011/Solution.txt)|
+|Basic Select|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)|Easy|15|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%2012/Solution.txt)|
+|Basic Select|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)|Easy|15|[Solution.txt](Sql/Basic%20Select/Higher%20Than%2075%20Marks/Solution.txt)|
+|Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees)|Easy|10|[Solution.txt](Sql/Basic%20Select/Employee%20Names/Solution.txt)|
+|Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)|Easy|10|[Solution.txt](Sql/Basic%20Select/Employee%20Salaries/Solution.txt)|
 
 License
 =======
