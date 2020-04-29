@@ -11,7 +11,7 @@ function getList(domain, subDomain) {
     var score = item.find(".max-score").text().replace("Max Score: ", "");
     var link = "https://www.hackerrank.com" + item.attr("href");
     console.log(
-      "|" +subDomain+ "|[" +title+ "](" +link+ ")|" +difficulty+ "|" +score+ "|[Solution.java](" +domain+ "/" +subDomain+ "/" +title+ "/Solution.java)|"
+      "|" +subDomain+ "|[" +title+ "](" +link+ ")|" +difficulty+ "|" +score+ "|[Solution.java](" +domain.replace(/ /g,"%20") + "/" +subDomain.replace(/ /g,"%20")+ "/" +title.replace(/ /g,"%20")+ "/Solution.java)|"
     )
   })
 }
