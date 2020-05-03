@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-434-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-446-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -532,15 +532,27 @@ platform tests of a given problem.
 |Basic Select|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%207/Solution.txt)|
 |Basic Select|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)|Easy|15|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%208/Solution.txt)|
 |Basic Select|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%209/Solution.txt)|
+|Basic Select|[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)|Easy|10|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%2010/Solution.txt)|
 |Basic Select|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)|Easy|15|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%2011/Solution.txt)|
 |Basic Select|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)|Easy|15|[Solution.txt](Sql/Basic%20Select/Weather%20Observation%20Station%2012/Solution.txt)|
 |Basic Select|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)|Easy|15|[Solution.txt](Sql/Basic%20Select/Higher%20Than%2075%20Marks/Solution.txt)|
 |Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees)|Easy|10|[Solution.txt](Sql/Basic%20Select/Employee%20Names/Solution.txt)|
 |Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)|Easy|10|[Solution.txt](Sql/Basic%20Select/Employee%20Salaries/Solution.txt)|
+|Aggregation|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function)|Easy|10|[Solution.txt](Sql/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function/Solution.txt)|
 |Aggregation|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)|Easy|10|[Solution.txt](Sql/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function/Solution.txt)|
 |Aggregation|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)|Easy|10|[Solution.txt](Sql/Aggregation/Revising%20Aggregations%20-%20Averages/Solution.txt)|
 |Aggregation|[Average Population](https://www.hackerrank.com/challenges/average-population)|Easy|10|[Solution.txt](Sql/Aggregation/Average%20Population/Solution.txt)|
 |Aggregation|[Japan Population](https://www.hackerrank.com/challenges/japan-population)|Easy|10|[Solution.txt](Sql/Aggregation/Japan%20Population/Solution.txt)|
+|Aggregation|[The Blunder](https://www.hackerrank.com/challenges/the-blunder)|Easy|15|[Solution.txt](Sql/Aggregation/The%20Blunder/Solution.txt)|
+|Aggregation|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)|Easy|20|[Solution.txt](Sql/Aggregation/Top%20Earners/Solution.txt)|
+|Aggregation|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)|Easy|15|[Solution.txt](Sql/Aggregation/Weather%20Observation%20Station%202/Solution.txt)|
+|Aggregation|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13)|Easy|10|[Solution.txt](Sql/Aggregation/Weather%20Observation%20Station%2013/Solution.txt)|
+|Aggregation|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15)|Easy|15|[Solution.txt](Sql/Aggregation/Weather%20Observation%20Station%2015/Solution.txt)|
+|Aggregation|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16)|Easy|10|[Solution.txt](Sql/Aggregation/Weather%20Observation%20Station%2016/Solution.txt)|
+|Aggregation|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)|Easy|15|[Solution.txt](Sql/Aggregation/Weather%20Observation%20Station%2017/Solution.txt)|
+|Basic Join|[Asian Population](https://www.hackerrank.com/challenges/asian-population)|Easy|10|[Solution.java](Sql/Basic%20Join/Asian%20Population/Solution.java)|
+|Basic Join|[African Cities](https://www.hackerrank.com/challenges/african-cities)|Easy|10|[Solution.java](Sql/Basic%20Join/African%20Cities/Solution.java)|
+|Basic Join|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)|Easy|10|[Solution.java](Sql/Basic%20Join/Average%20Population%20of%20Each%20Continent/Solution.java)|
 
 License
 =======

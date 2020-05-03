@@ -1,0 +1,3 @@
+select ci.name from city ci
+JOIN country ca on ci.countrycode = ca.code
+where ca.continent = "africa"
