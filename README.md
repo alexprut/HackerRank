@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-446-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-449-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -455,6 +455,9 @@ platform tests of a given problem.
 |Linear Algebra Foundations|[Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#2%20-%20Matrix%20Subtraction/Solution.txt)|
 |Linear Algebra Foundations|[Linear Algebra Foundations #3- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#3-%20Matrix%20Multiplication/Solution.txt)|
 |Linear Algebra Foundations|[Linear Algebra Foundations #4- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication)|Easy|2|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#4-%20Matrix%20Multiplication/Solution.txt)|
+|Linear Algebra Foundations|[Linear Algebra Foundations #5 - The 100th Power of a Matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix)|Medium|5|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Linear%20Algebra%20Foundations%20#5%20-%20The%20100th%20Power%20of%20a%20Matrix/Solution.txt)|
+|Linear Algebra Foundations|[Determinant of the matrix #1](https://www.hackerrank.com/challenges/determinant-of-the-matrix-1)|Medium|5|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Determinant%20of%20the%20matrix%20#1/Solution.txt)|
+|Linear Algebra Foundations|[Determinant of the matrix #3](https://www.hackerrank.com/challenges/determinant-of-the-matrix-3)|Medium|5|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Determinant%20of%20the%20matrix%20#3/Solution.txt)|
 
 ##  Artificial Intelligence
 |Subdomain|Challenge|Difficulty|Score|Solution|
