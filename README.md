@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-453-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-454-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -462,6 +462,7 @@ platform tests of a given problem.
 |Linear Algebra Foundations|[Eigenvalue of a Matrix I](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-1)|Hard|5|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Eigenvalue%20of%20a%20Matrix%20I/Solution.txt)|
 |Linear Algebra Foundations|[Eigenvalue of matrix #2](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-2)|Hard|5|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Eigenvalue%20of%20matrix%20#2/Solution.txt)|
 |Linear Algebra Foundations|[Eigenvalue of matrix #3](https://www.hackerrank.com/challenges/eigenvalues-of-matrix-3)|Hard|5|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Eigenvalue%20of%20matrix%20#3/Solution.txt)|
+|Linear Algebra Foundations|[Eigenvalue of matrix #4](https://www.hackerrank.com/challenges/eigenvalues-of-matrix-4)|Hard|5|[Solution.txt](Mathematics/Linear%20Algebra%20Foundations/Eigenvalue%20of%20matrix%20#4/Solution.txt)|
 
 ##  Artificial Intelligence
 |Subdomain|Challenge|Difficulty|Score|Solution|
