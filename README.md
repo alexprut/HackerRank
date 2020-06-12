@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-456-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-460-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -205,6 +205,10 @@ platform tests of a given problem.
 |Dynamic Programming|[Bricks Game](https://www.hackerrank.com/challenges/play-game)|Medium|55|[Solution.java](Algorithms/Dynamic%20Programming/Bricks%20Game/Solution.java)|
 |Dynamic Programming|[The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)|Medium|55|[Solution.java](Algorithms/Dynamic%20Programming/The%20Longest%20Common%20Subsequence/Solution.java)|
 |Constructive Algorithms|[Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)|Medium|30|[Solution.java](Algorithms/Constructive%20Algorithms/Flipping%20the%20Matrix/Solution.java)|
+|Bit Manipulation|[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)|Easy|20|[Solution.java](Algorithms/Bit%20Manipulation/Lonely%20Integer/Solution.java)|
+|Bit Manipulation|[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor)|Easy|30|[Solution.java](Algorithms/Bit%20Manipulation/Maximizing%20XOR/Solution.java)|
+|Bit Manipulation|[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor)|Easy|25|[Solution.java](Algorithms/Bit%20Manipulation/Sum%20vs%20XOR/Solution.java)|
+|Bit Manipulation|[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits)|Easy|40|[Solution.java](Algorithms/Bit%20Manipulation/Flipping%20bits/Solution.java)|
 |Recursion|[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum)|Medium|20|[Solution.java](Algorithms/Recursion/The%20Power%20Sum/Solution.java)|
 |Recursion|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum)|Medium|30|[Solution.java](Algorithms/Recursion/Recursive%20Digit%20Sum/Solution.java)|
 
