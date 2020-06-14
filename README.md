@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-460-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-461-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -124,6 +124,7 @@ platform tests of a given problem.
 |Implementation|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map)|Easy|30|[Solution.java](Algorithms/Implementation/Cavity%20Map/Solution.java)|
 |Implementation|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)|Easy|30|[Solution.java](Algorithms/Implementation/Manasa%20and%20Stones/Solution.java)|
 |Implementation|[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)|Easy|30|[Solution.java](Algorithms/Implementation/Happy%20Ladybugs/Solution.java)|
+|Implementation|[Strange Counter](https://www.hackerrank.com/challenges/strange-code)|Easy|30|[Solution.java](Algorithms/Implementation/Strange%20Counter/Solution.java)|
 |Strings|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)|Easy|10|[Solution.java](Algorithms/Strings/Super%20Reduced%20String/Solution.java)|
 |Strings|[CamelCase](https://www.hackerrank.com/challenges/camelcase)|Easy|15|[Solution.java](Algorithms/Strings/CamelCase/Solution.java)|
 |Strings|[Strong Password](https://www.hackerrank.com/challenges/strong-password)|Easy|15|[Solution.java](Algorithms/Strings/Strong%20Password/Solution.java)|
