@@ -15,7 +15,7 @@ public class Solution {
       if (cache.containsKey(obstacles[i][0])) {
         cache.get(obstacles[i][0]).add(obstacles[i][1]);
       } else {
-        cache.put(obstacles[i][0], new HashSet<>());
+        cache.put(obstacles[i][0], new HashSet<Integer>());
         cache.get(obstacles[i][0]).add(obstacles[i][1]);
       }
     }
