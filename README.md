@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-464-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-465-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -454,6 +454,7 @@ platform tests of a given problem.
 |Fundamentals|[Army Game](https://www.hackerrank.com/challenges/game-with-cells)|Easy|10|[Solution.cpp](Mathematics/Fundamentals/Army%20Game/Solution.cpp)|
 |Fundamentals|[Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns)|Easy|10|[Solution.java](Mathematics/Fundamentals/Connecting%20Towns/Solution.java)|
 |Fundamentals|[Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting)|Easy|15|[Solution.java](Mathematics/Fundamentals/Cutting%20Paper%20Squares/Solution.java)|
+|Fundamentals|[Best Divisor](https://www.hackerrank.com/challenges/best-divisor)|Easy|20|[Solution.java](Mathematics/Fundamentals/Best%20Divisor/Solution.java)|
 |Fundamentals|[Halloween party](https://www.hackerrank.com/challenges/halloween-party)|Easy|20|[Solution.java](Mathematics/Fundamentals/Halloween%20party/Solution.java)|
 |Number Theory|[Constructing a Number](https://www.hackerrank.com/challenges/constructing-a-number)|Easy|15|[Solution.java](Mathematics/Number%20Theory/Constructing%20a%20Number/Solution.java)|
 |Algebra|[Combo Meal](https://www.hackerrank.com/challenges/combo-meal)|Easy|15|[Solution.java](Mathematics/Algebra/Combo%20Meal/Solution.java)|
