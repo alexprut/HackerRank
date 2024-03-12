@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-465-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-466-green.svg?style=flat-square)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/alexprut)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/HackerRank/blob/master/LICENSE)
@@ -214,6 +214,7 @@ platform tests of a given problem.
 |Recursion|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum)|Medium|30|[Solution.java](Algorithms/Recursion/Recursive%20Digit%20Sum/Solution.java)|
 |Game Theory|[Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1)|Easy|15|[Solution.java](Algorithms/Game%20Theory/Game%20of%20Stones/Solution.java)|
 |Game Theory|[Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1)|Easy|15|[Solution.java](Algorithms/Game%20Theory/Tower%20Breakers/Solution.java)|
+|Game Theory|[Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1)|Easy|15|[Solution.java](Algorithms/Game%20Theory/Introduction%20to%20Nim%20Game/Solution.java)|
 
 ## Data Structures
 |Subdomain|Challenge|Difficulty|Score|Solution|
